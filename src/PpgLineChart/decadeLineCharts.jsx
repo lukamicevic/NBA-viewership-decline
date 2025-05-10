@@ -88,7 +88,7 @@ function createDecadeComponent(decade) {
         .style('pointer-events','none')
         .style('box-shadow','0 2px 5px rgba(0,0,0,0.1)');
 
-      d3.csv('../data/ppgLineChart/nbaStats.csv').then(data => {
+      d3.csv('data/ppgLineChart/nbaStats.csv').then(data => {
         const yearCols = Object.keys(data[0])
           .filter(k=>k.startsWith('Year'))
           .sort((a,b)=>+a.split(' ')[1]-+b.split(' ')[1]);

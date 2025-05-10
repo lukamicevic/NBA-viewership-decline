@@ -111,7 +111,7 @@ export default function PpgLineChart() {
       .y(d => y(d.points))
       .defined(d => d.points != null);
 
-    let dataPath = '../data/ppgLineChart/nbaStats.csv';
+    let dataPath = 'data/ppgLineChart/nbaStats.csv';
     d3.csv(dataPath)
       .then(processData)
       .catch(() => d3.csv('nbaStats.csv').then(processData));

@@ -202,7 +202,7 @@ const TugOfWar = () => {
               alignItems: 'center',
               gap: '4px'
             }}>
-              <img src="/data/tugwar/human3-green.svg" alt="green human" style={{ width: '60px', height: '60px' }} />
+              <img src="data/tugwar/human3-green.svg" alt="green human" style={{ width: '60px', height: '60px' }} />
               <div style={{
                 color:'white',
                 padding: '4px 8px',
@@ -275,7 +275,7 @@ const TugOfWar = () => {
             transition: '0.5s'
           }}>
             {Array.from({ length: positiveWeight }).map((_, i) => (
-              <img key={i} src="/data/tugwar/human-green.png" alt="puller" style={{ width: '100px' }} />
+              <img key={i} src="data/tugwar/human-green.png" alt="puller" style={{ width: '100px' }} />
             ))}
           </div>
 
@@ -294,7 +294,7 @@ const TugOfWar = () => {
             transition: '0.5s'
           }}>
             {Array.from({ length: negativeWeight }).map((_, i) => (
-              <img key={i} src="/data/tugwar/human-red.png" alt="puller" style={{ width: '100px' }} />
+              <img key={i} src="data/tugwar/human-red.png" alt="puller" style={{ width: '100px' }} />
             ))}
           </div>
         </div>
@@ -316,7 +316,7 @@ const TugOfWar = () => {
               alignItems: 'center',
               gap: '4px'
             }}>
-              <img src="/data/tugwar/human3-red-m.svg" alt="red human" style={{ width: '60px', height: '60px' }} />
+              <img src="data/tugwar/human3-red-m.svg" alt="red human" style={{ width: '60px', height: '60px' }} />
               <div style={{
                 color:'white',
                 padding: '4px 8px',
@@ -348,7 +348,7 @@ const TugOfWar = () => {
 			  alignItems: 'center',
 			  gap: '4px'
 			}}>
-			  <img src="/data/tugwar/human3-red-m.svg" alt="red human" style={{ width: '60px', height: '60px' }} />
+			  <img src="data/tugwar/human3-red-m.svg" alt="red human" style={{ width: '60px', height: '60px' }} />
 			  <div style={{
         color:'white',
 				padding: '4px 8px',

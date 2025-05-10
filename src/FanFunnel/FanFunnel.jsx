@@ -35,7 +35,7 @@ const FanFunnel = () => {
 	}, []);
 
 	useEffect(() => {
-		d3.json('/data/fan_funnel.json').then(data => {
+		d3.json('data/fan_funnel.json').then(data => {
 			setData(data);
 		});
 	}, []);

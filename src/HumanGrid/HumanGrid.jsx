@@ -68,7 +68,7 @@ const HumanGrid = () => {
 
 
 	useEffect(() => {
-		d3.json('/data/responses.json').then(data => {
+		d3.json('data/responses.json').then(data => {
 			const svg = d3.select(svgRef.current);
 			const bleacherRowY = [60, 100, 140, 185];
 

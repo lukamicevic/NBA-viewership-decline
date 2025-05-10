@@ -16,7 +16,7 @@ function ShotHeatMap() {
     const [year, setYear] = React.useState("2000");
     function LoadData(year) {
 
-        d3.json("/data/shotHeatData/" + year + ".json", d3.autoType).then(loadedData => {
+        d3.json("data/shotHeatData/" + year + ".json", d3.autoType).then(loadedData => {
 
             setShots(loadedData.numShots);
             setMakes(loadedData.numMade);
@@ -106,7 +106,7 @@ function ShotHeatMap() {
                     {getRectangles()}
                 </g>
 
-                <image href="/data/shotHeatData/courtnobg.png" className="courtOutline" alt="Basketball Court" width={(pixelSize * precision) + 2 * margin} height={(pixelSize * precision) + 2 * margin} />
+                <image href="data/shotHeatData/courtnobg.png" className="courtOutline" alt="Basketball Court" width={(pixelSize * precision) + 2 * margin} height={(pixelSize * precision) + 2 * margin} />
                 <defs>
                     <linearGradient id="legendGradient" x1="0%" y1="0%" x2="100%" y2="0%">
                         {

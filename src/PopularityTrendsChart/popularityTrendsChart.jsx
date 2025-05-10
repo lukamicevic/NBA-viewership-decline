@@ -68,7 +68,7 @@ export default function PopularityTrendsChart() {
   
 
   useEffect(() => {
-    fetch('../data/popularityTrends/nbaTrends.csv')
+    fetch('data/popularityTrends/nbaTrends.csv')
       .then(r => r.text())
       .then(txt => {
         const data = d3.csvParse(txt);
@@ -96,7 +96,7 @@ export default function PopularityTrendsChart() {
         .attr('transform', `translate(${config.margin.left},${config.margin.top})`);
 
     svg.append('image')
-      .attr('xlink:href', '../data/popularityTrends/svg/bleachers.svg')
+      .attr('xlink:href', 'data/popularityTrends/svg/bleachers.svg')
       .attr('width', config.width)
       .attr('height', height)
       .attr('preserveAspectRatio', 'xMidYMid slice');
@@ -158,8 +158,8 @@ export default function PopularityTrendsChart() {
         .attr('transform', d => `translate(${x(d.year)},0)`);
 
     groups.append('image')
-      .attr('href','../data/popularityTrends/svg/person3.svg')
-      .attr('xlink:href','../data/popularityTrends/svg/person3.svg')
+      .attr('href','data/popularityTrends/svg/person3.svg')
+      .attr('xlink:href','data/popularityTrends/svg/person3.svg')
       .attr('preserveAspectRatio','none')
       .attr('x',0)
       .attr('width', x.bandwidth())
@@ -221,8 +221,8 @@ export default function PopularityTrendsChart() {
       groups
         .filter(d => championsMap[d.year] === selected)
         .append('image')
-          .attr('href',      '../data/popularityTrends/svg/trophy.svg')
-          .attr('xlink:href','../data/popularityTrends/svg/trophy.svg')
+          .attr('href',      'data/popularityTrends/svg/trophy.svg')
+          .attr('xlink:href','data/popularityTrends/svg/trophy.svg')
           .attr('preserveAspectRatio','xMidYMid meet')
           .attr('width',   trophySize)
           .attr('x', () => x.bandwidth()*0.25 - trophySize/2)

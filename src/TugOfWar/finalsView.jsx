@@ -7,7 +7,7 @@ const ViewershipAndInstagramCharts = () => {
   const viewershipChartRef = useRef(null);
 
   useEffect(() => {
-    Papa.parse('/data/tugwar/Sports_Data4.csv', {
+    Papa.parse('data/tugwar/Sports_Data4.csv', {
       download: true,
       header: true,
       complete: function (results) {

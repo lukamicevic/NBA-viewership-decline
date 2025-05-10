@@ -164,7 +164,7 @@ function StateEngagementHeatMap() {
 
     function loadPaths() {
 
-        d3.json("/data/stateEngagement/gz_2010_us_040_00_20m.json", d3.autoType).then(loadedData => {
+        d3.json("data/stateEngagement/gz_2010_us_040_00_20m.json", d3.autoType).then(loadedData => {
             setFeatures(loadedData.features);
 
         });
@@ -176,7 +176,7 @@ function StateEngagementHeatMap() {
 
 
     function loadVals() {
-        d3.json("/data/stateEngagement/teamStateInterest.json", d3.autoType).then(loadedData => {
+        d3.json("data/stateEngagement/teamStateInterest.json", d3.autoType).then(loadedData => {
             setTeamInterest(loadedData);
             //console.log(loadedData);
         });
@@ -256,7 +256,7 @@ function StateEngagementHeatMap() {
                 opacity = 1;
             }
             return (
-                <image key={team[1]} x={x} y={y} height="50" href={"/data/stateEngagement/" + team[1] + ".png"} alt={team[0]} opacity={opacity} onMouseEnter={(event) => {
+                <image key={team[1]} x={x} y={y} height="50" href={"data/stateEngagement/" + team[1] + ".png"} alt={team[0]} opacity={opacity} onMouseEnter={(event) => {
 
                     d3.select("#tooltip")
                         .style("opacity", 1)
@@ -315,7 +315,7 @@ function StateEngagementHeatMap() {
         }
         //console.log(team[1]);
         return (
-            <image id={team[1] + "_selected"} x={575} y={300} height="200" href={"/data/stateEngagement/" + team[1] + ".png"} alt={team[0]}
+            <image id={team[1] + "_selected"} x={575} y={300} height="200" href={"data/stateEngagement/" + team[1] + ".png"} alt={team[0]}
                 onClick={() => {
                     setSelection("")
                     let newStateVals = { ...stateVals };
