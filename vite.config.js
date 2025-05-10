@@ -5,6 +5,9 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   base: '/NBA-viewership-decline/',
   plugins: [react()],
+  publicDir: 'public',
 })
+
+
 
 
