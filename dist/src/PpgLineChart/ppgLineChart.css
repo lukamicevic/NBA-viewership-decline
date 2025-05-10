@@ -1,0 +1,68 @@
+.container {
+    width: 900px;
+    height: 550px;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 5px;
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 30px;
+}
+path {
+    transition: opacity 0.3s;
+}
+path:hover {
+    opacity: 1 !important;
+    stroke-width: 3px !important;
+}
+.grid line {
+    stroke: lightgrey;
+    stroke-opacity: 0.7;
+    shape-rendering: crispEdges;
+}
+.grid path {
+    stroke-width: 0;
+}
+.legend text {
+    font-size: 12px;
+}
+
+.tooltip {
+    position: absolute;
+    text-align: center;
+    padding: 8px;
+    font-size: 12px;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    pointer-events: none;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    color: black;
+    z-index: 1000;
+}
+
+
+.ppg-line-description {
+	position: fixed;
+	bottom: 25px;
+	left: 65vh;
+	width: 400px;
+	padding: 16px;
+	color: white;
+	background: rgba(0, 0, 0, 0.3);
+	border-radius: 8px;
+	z-index: 10;
+	transition: transform 0.3s ease, opacity 0.3s ease;
+	transform: translateY(100%);
+	opacity: 0;
+}
+
+.ppg-line-description.visible {
+	transform: translateY(0);
+	opacity: 1;
+	pointer-events: auto;
+}

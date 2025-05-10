@@ -1,0 +1,6182 @@
+{
+    "Celtics": [
+        {
+            "name": "Massachusetts",
+            "score": "100"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "89"
+        },
+        {
+            "name": "Maine",
+            "score": "77"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "69"
+        },
+        {
+            "name": "Vermont",
+            "score": "45"
+        },
+        {
+            "name": "Connecticut",
+            "score": "25"
+        },
+        {
+            "name": "Delaware",
+            "score": "9"
+        },
+        {
+            "name": "South Carolina",
+            "score": "9"
+        },
+        {
+            "name": "Florida",
+            "score": "8"
+        },
+        {
+            "name": "New York",
+            "score": "8"
+        },
+        {
+            "name": "Mississippi",
+            "score": "8"
+        },
+        {
+            "name": "New Jersey",
+            "score": "7"
+        },
+        {
+            "name": "Hawaii",
+            "score": "7"
+        },
+        {
+            "name": "Maryland",
+            "score": "7"
+        },
+        {
+            "name": "North Carolina",
+            "score": "7"
+        },
+        {
+            "name": "New Mexico",
+            "score": "7"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "7"
+        },
+        {
+            "name": "Nevada",
+            "score": "7"
+        },
+        {
+            "name": "West Virginia",
+            "score": "7"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "7"
+        },
+        {
+            "name": "Ohio",
+            "score": "7"
+        },
+        {
+            "name": "Virginia",
+            "score": "7"
+        },
+        {
+            "name": "Tennessee",
+            "score": "6"
+        },
+        {
+            "name": "Louisiana",
+            "score": "6"
+        },
+        {
+            "name": "Georgia",
+            "score": "6"
+        },
+        {
+            "name": "California",
+            "score": "6"
+        },
+        {
+            "name": "Alabama",
+            "score": "6"
+        },
+        {
+            "name": "South Dakota",
+            "score": "6"
+        },
+        {
+            "name": "Montana",
+            "score": "6"
+        },
+        {
+            "name": "North Dakota",
+            "score": "6"
+        },
+        {
+            "name": "Arizona",
+            "score": "6"
+        },
+        {
+            "name": "Indiana",
+            "score": "6"
+        },
+        {
+            "name": "Kentucky",
+            "score": "5"
+        },
+        {
+            "name": "Illinois",
+            "score": "5"
+        },
+        {
+            "name": "Arkansas",
+            "score": "5"
+        },
+        {
+            "name": "Nebraska",
+            "score": "5"
+        },
+        {
+            "name": "Iowa",
+            "score": "5"
+        },
+        {
+            "name": "Colorado",
+            "score": "5"
+        },
+        {
+            "name": "Alaska",
+            "score": "5"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "5"
+        },
+        {
+            "name": "Utah",
+            "score": "5"
+        },
+        {
+            "name": "Texas",
+            "score": "5"
+        },
+        {
+            "name": "Wyoming",
+            "score": "5"
+        },
+        {
+            "name": "Idaho",
+            "score": "5"
+        },
+        {
+            "name": "Missouri",
+            "score": "5"
+        },
+        {
+            "name": "Michigan",
+            "score": "4"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "4"
+        },
+        {
+            "name": "Kansas",
+            "score": "4"
+        },
+        {
+            "name": "Minnesota",
+            "score": "4"
+        },
+        {
+            "name": "Oregon",
+            "score": "4"
+        },
+        {
+            "name": "Washington",
+            "score": "4"
+        }
+    ],
+    "Nets": [
+        {
+            "name": "New Jersey",
+            "score": "100"
+        },
+        {
+            "name": "New York",
+            "score": "96"
+        },
+        {
+            "name": "Connecticut",
+            "score": "45"
+        },
+        {
+            "name": "Delaware",
+            "score": "34"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "31"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "30"
+        },
+        {
+            "name": "Maryland",
+            "score": "29"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "29"
+        },
+        {
+            "name": "Mississippi",
+            "score": "26"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "25"
+        },
+        {
+            "name": "Florida",
+            "score": "25"
+        },
+        {
+            "name": "Georgia",
+            "score": "24"
+        },
+        {
+            "name": "Illinois",
+            "score": "24"
+        },
+        {
+            "name": "Louisiana",
+            "score": "23"
+        },
+        {
+            "name": "South Carolina",
+            "score": "23"
+        },
+        {
+            "name": "Michigan",
+            "score": "23"
+        },
+        {
+            "name": "Nevada",
+            "score": "23"
+        },
+        {
+            "name": "Indiana",
+            "score": "22"
+        },
+        {
+            "name": "North Carolina",
+            "score": "22"
+        },
+        {
+            "name": "Ohio",
+            "score": "22"
+        },
+        {
+            "name": "Virginia",
+            "score": "22"
+        },
+        {
+            "name": "Arizona",
+            "score": "22"
+        },
+        {
+            "name": "Alabama",
+            "score": "22"
+        },
+        {
+            "name": "Vermont",
+            "score": "21"
+        },
+        {
+            "name": "Tennessee",
+            "score": "20"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "20"
+        },
+        {
+            "name": "Arkansas",
+            "score": "20"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "19"
+        },
+        {
+            "name": "California",
+            "score": "19"
+        },
+        {
+            "name": "Maine",
+            "score": "19"
+        },
+        {
+            "name": "Texas",
+            "score": "19"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "18"
+        },
+        {
+            "name": "New Mexico",
+            "score": "17"
+        },
+        {
+            "name": "West Virginia",
+            "score": "17"
+        },
+        {
+            "name": "Kentucky",
+            "score": "17"
+        },
+        {
+            "name": "Iowa",
+            "score": "17"
+        },
+        {
+            "name": "Hawaii",
+            "score": "16"
+        },
+        {
+            "name": "Utah",
+            "score": "16"
+        },
+        {
+            "name": "Missouri",
+            "score": "16"
+        },
+        {
+            "name": "Colorado",
+            "score": "16"
+        },
+        {
+            "name": "Minnesota",
+            "score": "16"
+        },
+        {
+            "name": "South Dakota",
+            "score": "15"
+        },
+        {
+            "name": "Alaska",
+            "score": "15"
+        },
+        {
+            "name": "Kansas",
+            "score": "14"
+        },
+        {
+            "name": "Nebraska",
+            "score": "14"
+        },
+        {
+            "name": "Washington",
+            "score": "14"
+        },
+        {
+            "name": "Oregon",
+            "score": "13"
+        },
+        {
+            "name": "North Dakota",
+            "score": "13"
+        },
+        {
+            "name": "Montana",
+            "score": "11"
+        },
+        {
+            "name": "Idaho",
+            "score": "10"
+        },
+        {
+            "name": "Wyoming",
+            "score": "9"
+        }
+    ],
+    "Knicks": [
+        {
+            "name": "New York",
+            "score": "100"
+        },
+        {
+            "name": "New Jersey",
+            "score": "65"
+        },
+        {
+            "name": "Connecticut",
+            "score": "43"
+        },
+        {
+            "name": "Delaware",
+            "score": "19"
+        },
+        {
+            "name": "Florida",
+            "score": "17"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "17"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "16"
+        },
+        {
+            "name": "Vermont",
+            "score": "16"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "14"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "14"
+        },
+        {
+            "name": "South Carolina",
+            "score": "13"
+        },
+        {
+            "name": "Maryland",
+            "score": "13"
+        },
+        {
+            "name": "North Carolina",
+            "score": "13"
+        },
+        {
+            "name": "Georgia",
+            "score": "12"
+        },
+        {
+            "name": "Virginia",
+            "score": "11"
+        },
+        {
+            "name": "Nevada",
+            "score": "10"
+        },
+        {
+            "name": "Maine",
+            "score": "8"
+        },
+        {
+            "name": "Indiana",
+            "score": "8"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "8"
+        },
+        {
+            "name": "Illinois",
+            "score": "8"
+        },
+        {
+            "name": "Mississippi",
+            "score": "8"
+        },
+        {
+            "name": "Ohio",
+            "score": "7"
+        },
+        {
+            "name": "West Virginia",
+            "score": "7"
+        },
+        {
+            "name": "Louisiana",
+            "score": "7"
+        },
+        {
+            "name": "Hawaii",
+            "score": "7"
+        },
+        {
+            "name": "California",
+            "score": "7"
+        },
+        {
+            "name": "Arizona",
+            "score": "7"
+        },
+        {
+            "name": "Alabama",
+            "score": "6"
+        },
+        {
+            "name": "Tennessee",
+            "score": "6"
+        },
+        {
+            "name": "Colorado",
+            "score": "6"
+        },
+        {
+            "name": "Kentucky",
+            "score": "6"
+        },
+        {
+            "name": "Michigan",
+            "score": "6"
+        },
+        {
+            "name": "Texas",
+            "score": "6"
+        },
+        {
+            "name": "Kansas",
+            "score": "5"
+        },
+        {
+            "name": "New Mexico",
+            "score": "5"
+        },
+        {
+            "name": "Utah",
+            "score": "5"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "5"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "5"
+        },
+        {
+            "name": "Nebraska",
+            "score": "5"
+        },
+        {
+            "name": "Iowa",
+            "score": "5"
+        },
+        {
+            "name": "Missouri",
+            "score": "5"
+        },
+        {
+            "name": "Arkansas",
+            "score": "5"
+        },
+        {
+            "name": "Minnesota",
+            "score": "4"
+        },
+        {
+            "name": "Oregon",
+            "score": "4"
+        },
+        {
+            "name": "Washington",
+            "score": "4"
+        },
+        {
+            "name": "North Dakota",
+            "score": "4"
+        },
+        {
+            "name": "Alaska",
+            "score": "4"
+        },
+        {
+            "name": "South Dakota",
+            "score": "4"
+        },
+        {
+            "name": "Montana",
+            "score": "4"
+        },
+        {
+            "name": "Idaho",
+            "score": "3"
+        },
+        {
+            "name": "Wyoming",
+            "score": "3"
+        }
+    ],
+    "P76ers": [
+        {
+            "name": "Delaware",
+            "score": "100"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "97"
+        },
+        {
+            "name": "New Jersey",
+            "score": "39"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "12"
+        },
+        {
+            "name": "Maryland",
+            "score": "10"
+        },
+        {
+            "name": "Virginia",
+            "score": "7"
+        },
+        {
+            "name": "New York",
+            "score": "7"
+        },
+        {
+            "name": "South Carolina",
+            "score": "6"
+        },
+        {
+            "name": "Connecticut",
+            "score": "6"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "6"
+        },
+        {
+            "name": "Florida",
+            "score": "6"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "6"
+        },
+        {
+            "name": "Vermont",
+            "score": "6"
+        },
+        {
+            "name": "North Carolina",
+            "score": "5"
+        },
+        {
+            "name": "Maine",
+            "score": "5"
+        },
+        {
+            "name": "Nevada",
+            "score": "5"
+        },
+        {
+            "name": "Mississippi",
+            "score": "5"
+        },
+        {
+            "name": "Georgia",
+            "score": "5"
+        },
+        {
+            "name": "West Virginia",
+            "score": "4"
+        },
+        {
+            "name": "Arizona",
+            "score": "4"
+        },
+        {
+            "name": "Ohio",
+            "score": "4"
+        },
+        {
+            "name": "Indiana",
+            "score": "4"
+        },
+        {
+            "name": "Tennessee",
+            "score": "4"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "4"
+        },
+        {
+            "name": "Illinois",
+            "score": "4"
+        },
+        {
+            "name": "Louisiana",
+            "score": "4"
+        },
+        {
+            "name": "Hawaii",
+            "score": "4"
+        },
+        {
+            "name": "Alabama",
+            "score": "4"
+        },
+        {
+            "name": "Colorado",
+            "score": "4"
+        },
+        {
+            "name": "California",
+            "score": "4"
+        },
+        {
+            "name": "Iowa",
+            "score": "4"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "4"
+        },
+        {
+            "name": "Arkansas",
+            "score": "3"
+        },
+        {
+            "name": "Michigan",
+            "score": "3"
+        },
+        {
+            "name": "Kentucky",
+            "score": "3"
+        },
+        {
+            "name": "South Dakota",
+            "score": "3"
+        },
+        {
+            "name": "New Mexico",
+            "score": "3"
+        },
+        {
+            "name": "Texas",
+            "score": "3"
+        },
+        {
+            "name": "Nebraska",
+            "score": "3"
+        },
+        {
+            "name": "Utah",
+            "score": "3"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "3"
+        },
+        {
+            "name": "North Dakota",
+            "score": "3"
+        },
+        {
+            "name": "Kansas",
+            "score": "3"
+        },
+        {
+            "name": "Montana",
+            "score": "3"
+        },
+        {
+            "name": "Missouri",
+            "score": "2"
+        },
+        {
+            "name": "Minnesota",
+            "score": "2"
+        },
+        {
+            "name": "Oregon",
+            "score": "2"
+        },
+        {
+            "name": "Alaska",
+            "score": "2"
+        },
+        {
+            "name": "Washington",
+            "score": "2"
+        },
+        {
+            "name": "Idaho",
+            "score": "2"
+        },
+        {
+            "name": "Wyoming",
+            "score": "2"
+        }
+    ],
+    "Raptors": [
+        {
+            "name": "New Jersey",
+            "score": "100"
+        },
+        {
+            "name": "Ohio",
+            "score": "99"
+        },
+        {
+            "name": "New York",
+            "score": "98"
+        },
+        {
+            "name": "Illinois",
+            "score": "93"
+        },
+        {
+            "name": "Nevada",
+            "score": "92"
+        },
+        {
+            "name": "Florida",
+            "score": "89"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "89"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "89"
+        },
+        {
+            "name": "Delaware",
+            "score": "89"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "88"
+        },
+        {
+            "name": "California",
+            "score": "87"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "85"
+        },
+        {
+            "name": "Hawaii",
+            "score": "84"
+        },
+        {
+            "name": "Indiana",
+            "score": "83"
+        },
+        {
+            "name": "Maryland",
+            "score": "81"
+        },
+        {
+            "name": "Michigan",
+            "score": "80"
+        },
+        {
+            "name": "Connecticut",
+            "score": "80"
+        },
+        {
+            "name": "Mississippi",
+            "score": "79"
+        },
+        {
+            "name": "Utah",
+            "score": "78"
+        },
+        {
+            "name": "Georgia",
+            "score": "77"
+        },
+        {
+            "name": "Louisiana",
+            "score": "76"
+        },
+        {
+            "name": "Texas",
+            "score": "75"
+        },
+        {
+            "name": "Alabama",
+            "score": "74"
+        },
+        {
+            "name": "South Carolina",
+            "score": "74"
+        },
+        {
+            "name": "North Carolina",
+            "score": "71"
+        },
+        {
+            "name": "Arizona",
+            "score": "71"
+        },
+        {
+            "name": "Maine",
+            "score": "71"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "69"
+        },
+        {
+            "name": "Virginia",
+            "score": "69"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "69"
+        },
+        {
+            "name": "Tennessee",
+            "score": "68"
+        },
+        {
+            "name": "Vermont",
+            "score": "67"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "67"
+        },
+        {
+            "name": "Oregon",
+            "score": "66"
+        },
+        {
+            "name": "New Mexico",
+            "score": "65"
+        },
+        {
+            "name": "Iowa",
+            "score": "64"
+        },
+        {
+            "name": "Kansas",
+            "score": "63"
+        },
+        {
+            "name": "Kentucky",
+            "score": "62"
+        },
+        {
+            "name": "Nebraska",
+            "score": "62"
+        },
+        {
+            "name": "Washington",
+            "score": "62"
+        },
+        {
+            "name": "Arkansas",
+            "score": "61"
+        },
+        {
+            "name": "Minnesota",
+            "score": "61"
+        },
+        {
+            "name": "Colorado",
+            "score": "60"
+        },
+        {
+            "name": "South Dakota",
+            "score": "59"
+        },
+        {
+            "name": "North Dakota",
+            "score": "56"
+        },
+        {
+            "name": "West Virginia",
+            "score": "56"
+        },
+        {
+            "name": "Montana",
+            "score": "52"
+        },
+        {
+            "name": "Alaska",
+            "score": "51"
+        },
+        {
+            "name": "Missouri",
+            "score": "51"
+        },
+        {
+            "name": "Wyoming",
+            "score": "46"
+        },
+        {
+            "name": "Idaho",
+            "score": "46"
+        }
+    ],
+    "Bulls": [
+        {
+            "name": "Illinois",
+            "score": "100"
+        },
+        {
+            "name": "Indiana",
+            "score": "21"
+        },
+        {
+            "name": "Iowa",
+            "score": "18"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "14"
+        },
+        {
+            "name": "Nebraska",
+            "score": "10"
+        },
+        {
+            "name": "Nevada",
+            "score": "9"
+        },
+        {
+            "name": "Mississippi",
+            "score": "9"
+        },
+        {
+            "name": "Arizona",
+            "score": "9"
+        },
+        {
+            "name": "Missouri",
+            "score": "8"
+        },
+        {
+            "name": "South Dakota",
+            "score": "8"
+        },
+        {
+            "name": "Florida",
+            "score": "8"
+        },
+        {
+            "name": "Michigan",
+            "score": "7"
+        },
+        {
+            "name": "New Mexico",
+            "score": "7"
+        },
+        {
+            "name": "North Dakota",
+            "score": "7"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "7"
+        },
+        {
+            "name": "Tennessee",
+            "score": "7"
+        },
+        {
+            "name": "Kentucky",
+            "score": "7"
+        },
+        {
+            "name": "Hawaii",
+            "score": "7"
+        },
+        {
+            "name": "Ohio",
+            "score": "7"
+        },
+        {
+            "name": "Minnesota",
+            "score": "7"
+        },
+        {
+            "name": "Georgia",
+            "score": "7"
+        },
+        {
+            "name": "Kansas",
+            "score": "7"
+        },
+        {
+            "name": "New York",
+            "score": "6"
+        },
+        {
+            "name": "Arkansas",
+            "score": "6"
+        },
+        {
+            "name": "Colorado",
+            "score": "6"
+        },
+        {
+            "name": "South Carolina",
+            "score": "6"
+        },
+        {
+            "name": "Texas",
+            "score": "6"
+        },
+        {
+            "name": "Louisiana",
+            "score": "6"
+        },
+        {
+            "name": "North Carolina",
+            "score": "6"
+        },
+        {
+            "name": "Alabama",
+            "score": "6"
+        },
+        {
+            "name": "Connecticut",
+            "score": "6"
+        },
+        {
+            "name": "California",
+            "score": "6"
+        },
+        {
+            "name": "New Jersey",
+            "score": "6"
+        },
+        {
+            "name": "Virginia",
+            "score": "6"
+        },
+        {
+            "name": "Maryland",
+            "score": "6"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "5"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "5"
+        },
+        {
+            "name": "Montana",
+            "score": "5"
+        },
+        {
+            "name": "Alaska",
+            "score": "5"
+        },
+        {
+            "name": "Delaware",
+            "score": "5"
+        },
+        {
+            "name": "West Virginia",
+            "score": "5"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "5"
+        },
+        {
+            "name": "Utah",
+            "score": "5"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "5"
+        },
+        {
+            "name": "Wyoming",
+            "score": "5"
+        },
+        {
+            "name": "Washington",
+            "score": "4"
+        },
+        {
+            "name": "Idaho",
+            "score": "4"
+        },
+        {
+            "name": "Vermont",
+            "score": "4"
+        },
+        {
+            "name": "Oregon",
+            "score": "4"
+        },
+        {
+            "name": "Maine",
+            "score": "4"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "3"
+        }
+    ],
+    "Cavaliers": [
+        {
+            "name": "Ohio",
+            "score": "100"
+        },
+        {
+            "name": "Michigan",
+            "score": "10"
+        },
+        {
+            "name": "West Virginia",
+            "score": "9"
+        },
+        {
+            "name": "Mississippi",
+            "score": "9"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "9"
+        },
+        {
+            "name": "South Carolina",
+            "score": "9"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "8"
+        },
+        {
+            "name": "Georgia",
+            "score": "8"
+        },
+        {
+            "name": "Nevada",
+            "score": "8"
+        },
+        {
+            "name": "North Carolina",
+            "score": "8"
+        },
+        {
+            "name": "Kentucky",
+            "score": "8"
+        },
+        {
+            "name": "Alabama",
+            "score": "8"
+        },
+        {
+            "name": "Illinois",
+            "score": "8"
+        },
+        {
+            "name": "Indiana",
+            "score": "8"
+        },
+        {
+            "name": "Louisiana",
+            "score": "8"
+        },
+        {
+            "name": "Florida",
+            "score": "7"
+        },
+        {
+            "name": "Maryland",
+            "score": "7"
+        },
+        {
+            "name": "Tennessee",
+            "score": "7"
+        },
+        {
+            "name": "Delaware",
+            "score": "7"
+        },
+        {
+            "name": "New York",
+            "score": "6"
+        },
+        {
+            "name": "Arkansas",
+            "score": "6"
+        },
+        {
+            "name": "New Jersey",
+            "score": "6"
+        },
+        {
+            "name": "Hawaii",
+            "score": "6"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "6"
+        },
+        {
+            "name": "Texas",
+            "score": "6"
+        },
+        {
+            "name": "Missouri",
+            "score": "6"
+        },
+        {
+            "name": "Virginia",
+            "score": "6"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "6"
+        },
+        {
+            "name": "Arizona",
+            "score": "6"
+        },
+        {
+            "name": "Nebraska",
+            "score": "5"
+        },
+        {
+            "name": "Connecticut",
+            "score": "5"
+        },
+        {
+            "name": "South Dakota",
+            "score": "5"
+        },
+        {
+            "name": "California",
+            "score": "5"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "5"
+        },
+        {
+            "name": "Utah",
+            "score": "5"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "5"
+        },
+        {
+            "name": "New Mexico",
+            "score": "5"
+        },
+        {
+            "name": "Maine",
+            "score": "5"
+        },
+        {
+            "name": "Iowa",
+            "score": "5"
+        },
+        {
+            "name": "Minnesota",
+            "score": "5"
+        },
+        {
+            "name": "Colorado",
+            "score": "4"
+        },
+        {
+            "name": "North Dakota",
+            "score": "4"
+        },
+        {
+            "name": "Vermont",
+            "score": "4"
+        },
+        {
+            "name": "Alaska",
+            "score": "4"
+        },
+        {
+            "name": "Kansas",
+            "score": "4"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "4"
+        },
+        {
+            "name": "Wyoming",
+            "score": "4"
+        },
+        {
+            "name": "Washington",
+            "score": "4"
+        },
+        {
+            "name": "Montana",
+            "score": "4"
+        },
+        {
+            "name": "Oregon",
+            "score": "3"
+        },
+        {
+            "name": "Idaho",
+            "score": "3"
+        }
+    ],
+    "Pistons": [
+        {
+            "name": "Michigan",
+            "score": "100"
+        },
+        {
+            "name": "Ohio",
+            "score": "7"
+        },
+        {
+            "name": "Indiana",
+            "score": "6"
+        },
+        {
+            "name": "Illinois",
+            "score": "5"
+        },
+        {
+            "name": "Mississippi",
+            "score": "5"
+        },
+        {
+            "name": "Nevada",
+            "score": "5"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "4"
+        },
+        {
+            "name": "Florida",
+            "score": "4"
+        },
+        {
+            "name": "Kentucky",
+            "score": "4"
+        },
+        {
+            "name": "Arizona",
+            "score": "4"
+        },
+        {
+            "name": "Tennessee",
+            "score": "4"
+        },
+        {
+            "name": "Georgia",
+            "score": "4"
+        },
+        {
+            "name": "Maryland",
+            "score": "4"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "4"
+        },
+        {
+            "name": "Virginia",
+            "score": "4"
+        },
+        {
+            "name": "North Carolina",
+            "score": "4"
+        },
+        {
+            "name": "Alabama",
+            "score": "4"
+        },
+        {
+            "name": "New Jersey",
+            "score": "4"
+        },
+        {
+            "name": "South Carolina",
+            "score": "3"
+        },
+        {
+            "name": "Iowa",
+            "score": "3"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "3"
+        },
+        {
+            "name": "New York",
+            "score": "3"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "3"
+        },
+        {
+            "name": "Louisiana",
+            "score": "3"
+        },
+        {
+            "name": "Delaware",
+            "score": "3"
+        },
+        {
+            "name": "Minnesota",
+            "score": "3"
+        },
+        {
+            "name": "Texas",
+            "score": "3"
+        },
+        {
+            "name": "Connecticut",
+            "score": "3"
+        },
+        {
+            "name": "Montana",
+            "score": "3"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "3"
+        },
+        {
+            "name": "Colorado",
+            "score": "3"
+        },
+        {
+            "name": "Arkansas",
+            "score": "3"
+        },
+        {
+            "name": "South Dakota",
+            "score": "3"
+        },
+        {
+            "name": "California",
+            "score": "3"
+        },
+        {
+            "name": "Kansas",
+            "score": "3"
+        },
+        {
+            "name": "Nebraska",
+            "score": "3"
+        },
+        {
+            "name": "Hawaii",
+            "score": "3"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "3"
+        },
+        {
+            "name": "Alaska",
+            "score": "3"
+        },
+        {
+            "name": "West Virginia",
+            "score": "3"
+        },
+        {
+            "name": "Missouri",
+            "score": "3"
+        },
+        {
+            "name": "Utah",
+            "score": "3"
+        },
+        {
+            "name": "Vermont",
+            "score": "3"
+        },
+        {
+            "name": "Maine",
+            "score": "3"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "3"
+        },
+        {
+            "name": "Oregon",
+            "score": "2"
+        },
+        {
+            "name": "New Mexico",
+            "score": "2"
+        },
+        {
+            "name": "North Dakota",
+            "score": "2"
+        },
+        {
+            "name": "Washington",
+            "score": "2"
+        },
+        {
+            "name": "Wyoming",
+            "score": "2"
+        },
+        {
+            "name": "Idaho",
+            "score": "2"
+        }
+    ],
+    "Pacers": [
+        {
+            "name": "Indiana",
+            "score": "100"
+        },
+        {
+            "name": "Kentucky",
+            "score": "8"
+        },
+        {
+            "name": "Illinois",
+            "score": "7"
+        },
+        {
+            "name": "Ohio",
+            "score": "6"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "4"
+        },
+        {
+            "name": "Mississippi",
+            "score": "4"
+        },
+        {
+            "name": "Florida",
+            "score": "4"
+        },
+        {
+            "name": "New York",
+            "score": "4"
+        },
+        {
+            "name": "Georgia",
+            "score": "4"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "4"
+        },
+        {
+            "name": "Iowa",
+            "score": "4"
+        },
+        {
+            "name": "Nevada",
+            "score": "4"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "4"
+        },
+        {
+            "name": "Michigan",
+            "score": "4"
+        },
+        {
+            "name": "New Jersey",
+            "score": "4"
+        },
+        {
+            "name": "Maryland",
+            "score": "4"
+        },
+        {
+            "name": "Tennessee",
+            "score": "3"
+        },
+        {
+            "name": "Delaware",
+            "score": "3"
+        },
+        {
+            "name": "Louisiana",
+            "score": "3"
+        },
+        {
+            "name": "North Carolina",
+            "score": "3"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "3"
+        },
+        {
+            "name": "South Carolina",
+            "score": "3"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "3"
+        },
+        {
+            "name": "Virginia",
+            "score": "3"
+        },
+        {
+            "name": "Arizona",
+            "score": "3"
+        },
+        {
+            "name": "Missouri",
+            "score": "3"
+        },
+        {
+            "name": "Nebraska",
+            "score": "3"
+        },
+        {
+            "name": "Texas",
+            "score": "3"
+        },
+        {
+            "name": "Connecticut",
+            "score": "3"
+        },
+        {
+            "name": "Arkansas",
+            "score": "3"
+        },
+        {
+            "name": "Alabama",
+            "score": "3"
+        },
+        {
+            "name": "California",
+            "score": "3"
+        },
+        {
+            "name": "Minnesota",
+            "score": "2"
+        },
+        {
+            "name": "Maine",
+            "score": "2"
+        },
+        {
+            "name": "Colorado",
+            "score": "2"
+        },
+        {
+            "name": "Hawaii",
+            "score": "2"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "2"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "2"
+        },
+        {
+            "name": "Kansas",
+            "score": "2"
+        },
+        {
+            "name": "West Virginia",
+            "score": "2"
+        },
+        {
+            "name": "South Dakota",
+            "score": "2"
+        },
+        {
+            "name": "Utah",
+            "score": "2"
+        },
+        {
+            "name": "Oregon",
+            "score": "2"
+        },
+        {
+            "name": "Vermont",
+            "score": "2"
+        },
+        {
+            "name": "New Mexico",
+            "score": "2"
+        },
+        {
+            "name": "North Dakota",
+            "score": "2"
+        },
+        {
+            "name": "Alaska",
+            "score": "2"
+        },
+        {
+            "name": "Washington",
+            "score": "2"
+        },
+        {
+            "name": "Montana",
+            "score": "1"
+        },
+        {
+            "name": "Wyoming",
+            "score": "1"
+        },
+        {
+            "name": "Idaho",
+            "score": "1"
+        }
+    ],
+    "Bucks": [
+        {
+            "name": "Wisconsin",
+            "score": "100"
+        },
+        {
+            "name": "Illinois",
+            "score": "6"
+        },
+        {
+            "name": "Iowa",
+            "score": "5"
+        },
+        {
+            "name": "Minnesota",
+            "score": "4"
+        },
+        {
+            "name": "Arizona",
+            "score": "4"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "3"
+        },
+        {
+            "name": "Indiana",
+            "score": "3"
+        },
+        {
+            "name": "Nevada",
+            "score": "3"
+        },
+        {
+            "name": "South Dakota",
+            "score": "3"
+        },
+        {
+            "name": "Delaware",
+            "score": "3"
+        },
+        {
+            "name": "Mississippi",
+            "score": "3"
+        },
+        {
+            "name": "South Carolina",
+            "score": "3"
+        },
+        {
+            "name": "Ohio",
+            "score": "3"
+        },
+        {
+            "name": "Michigan",
+            "score": "3"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "3"
+        },
+        {
+            "name": "North Dakota",
+            "score": "3"
+        },
+        {
+            "name": "New Jersey",
+            "score": "3"
+        },
+        {
+            "name": "Florida",
+            "score": "3"
+        },
+        {
+            "name": "Tennessee",
+            "score": "3"
+        },
+        {
+            "name": "Maryland",
+            "score": "2"
+        },
+        {
+            "name": "Arkansas",
+            "score": "2"
+        },
+        {
+            "name": "Colorado",
+            "score": "2"
+        },
+        {
+            "name": "Montana",
+            "score": "2"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "2"
+        },
+        {
+            "name": "Louisiana",
+            "score": "2"
+        },
+        {
+            "name": "Georgia",
+            "score": "2"
+        },
+        {
+            "name": "North Carolina",
+            "score": "2"
+        },
+        {
+            "name": "Nebraska",
+            "score": "2"
+        },
+        {
+            "name": "Maine",
+            "score": "2"
+        },
+        {
+            "name": "Alabama",
+            "score": "2"
+        },
+        {
+            "name": "Connecticut",
+            "score": "2"
+        },
+        {
+            "name": "Missouri",
+            "score": "2"
+        },
+        {
+            "name": "West Virginia",
+            "score": "2"
+        },
+        {
+            "name": "Kentucky",
+            "score": "2"
+        },
+        {
+            "name": "Utah",
+            "score": "2"
+        },
+        {
+            "name": "New York",
+            "score": "2"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "2"
+        },
+        {
+            "name": "California",
+            "score": "2"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "2"
+        },
+        {
+            "name": "New Mexico",
+            "score": "2"
+        },
+        {
+            "name": "Texas",
+            "score": "2"
+        },
+        {
+            "name": "Wyoming",
+            "score": "2"
+        },
+        {
+            "name": "Oregon",
+            "score": "2"
+        },
+        {
+            "name": "Hawaii",
+            "score": "2"
+        },
+        {
+            "name": "Virginia",
+            "score": "2"
+        },
+        {
+            "name": "Vermont",
+            "score": "2"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "2"
+        },
+        {
+            "name": "Kansas",
+            "score": "2"
+        },
+        {
+            "name": "Alaska",
+            "score": "2"
+        },
+        {
+            "name": "Washington",
+            "score": "1"
+        },
+        {
+            "name": "Idaho",
+            "score": "1"
+        }
+    ],
+    "Hawks": [
+        {
+            "name": "Georgia",
+            "score": "100"
+        },
+        {
+            "name": "Alabama",
+            "score": "22"
+        },
+        {
+            "name": "Illinois",
+            "score": "14"
+        },
+        {
+            "name": "Tennessee",
+            "score": "12"
+        },
+        {
+            "name": "South Carolina",
+            "score": "12"
+        },
+        {
+            "name": "Mississippi",
+            "score": "10"
+        },
+        {
+            "name": "North Carolina",
+            "score": "8"
+        },
+        {
+            "name": "Florida",
+            "score": "8"
+        },
+        {
+            "name": "Louisiana",
+            "score": "7"
+        },
+        {
+            "name": "Indiana",
+            "score": "7"
+        },
+        {
+            "name": "New York",
+            "score": "7"
+        },
+        {
+            "name": "New Jersey",
+            "score": "7"
+        },
+        {
+            "name": "Nevada",
+            "score": "7"
+        },
+        {
+            "name": "Delaware",
+            "score": "6"
+        },
+        {
+            "name": "Kentucky",
+            "score": "6"
+        },
+        {
+            "name": "Iowa",
+            "score": "6"
+        },
+        {
+            "name": "Maryland",
+            "score": "6"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "6"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "6"
+        },
+        {
+            "name": "Ohio",
+            "score": "6"
+        },
+        {
+            "name": "Connecticut",
+            "score": "6"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "6"
+        },
+        {
+            "name": "Virginia",
+            "score": "6"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "6"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "6"
+        },
+        {
+            "name": "Arkansas",
+            "score": "6"
+        },
+        {
+            "name": "Arizona",
+            "score": "5"
+        },
+        {
+            "name": "Michigan",
+            "score": "5"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "5"
+        },
+        {
+            "name": "Texas",
+            "score": "5"
+        },
+        {
+            "name": "California",
+            "score": "5"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "4"
+        },
+        {
+            "name": "Missouri",
+            "score": "4"
+        },
+        {
+            "name": "Colorado",
+            "score": "4"
+        },
+        {
+            "name": "Nebraska",
+            "score": "4"
+        },
+        {
+            "name": "Washington",
+            "score": "4"
+        },
+        {
+            "name": "Maine",
+            "score": "4"
+        },
+        {
+            "name": "West Virginia",
+            "score": "4"
+        },
+        {
+            "name": "Minnesota",
+            "score": "4"
+        },
+        {
+            "name": "Hawaii",
+            "score": "4"
+        },
+        {
+            "name": "Utah",
+            "score": "4"
+        },
+        {
+            "name": "New Mexico",
+            "score": "4"
+        },
+        {
+            "name": "Kansas",
+            "score": "4"
+        },
+        {
+            "name": "South Dakota",
+            "score": "4"
+        },
+        {
+            "name": "Vermont",
+            "score": "4"
+        },
+        {
+            "name": "North Dakota",
+            "score": "4"
+        },
+        {
+            "name": "Idaho",
+            "score": "4"
+        },
+        {
+            "name": "Oregon",
+            "score": "3"
+        },
+        {
+            "name": "Montana",
+            "score": "3"
+        },
+        {
+            "name": "Wyoming",
+            "score": "3"
+        },
+        {
+            "name": "Alaska",
+            "score": "3"
+        }
+    ],
+    "Hornets": [
+        {
+            "name": "North Carolina",
+            "score": "100"
+        },
+        {
+            "name": "South Carolina",
+            "score": "48"
+        },
+        {
+            "name": "Louisiana",
+            "score": "22"
+        },
+        {
+            "name": "Georgia",
+            "score": "14"
+        },
+        {
+            "name": "Tennessee",
+            "score": "11"
+        },
+        {
+            "name": "Mississippi",
+            "score": "11"
+        },
+        {
+            "name": "Virginia",
+            "score": "11"
+        },
+        {
+            "name": "West Virginia",
+            "score": "11"
+        },
+        {
+            "name": "New Jersey",
+            "score": "10"
+        },
+        {
+            "name": "Alabama",
+            "score": "10"
+        },
+        {
+            "name": "Maryland",
+            "score": "10"
+        },
+        {
+            "name": "Indiana",
+            "score": "10"
+        },
+        {
+            "name": "Illinois",
+            "score": "9"
+        },
+        {
+            "name": "New York",
+            "score": "9"
+        },
+        {
+            "name": "Nevada",
+            "score": "9"
+        },
+        {
+            "name": "Connecticut",
+            "score": "9"
+        },
+        {
+            "name": "Arkansas",
+            "score": "9"
+        },
+        {
+            "name": "Delaware",
+            "score": "9"
+        },
+        {
+            "name": "Kentucky",
+            "score": "9"
+        },
+        {
+            "name": "Ohio",
+            "score": "9"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "9"
+        },
+        {
+            "name": "Florida",
+            "score": "9"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "9"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "9"
+        },
+        {
+            "name": "Michigan",
+            "score": "8"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "8"
+        },
+        {
+            "name": "Arizona",
+            "score": "8"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "8"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "8"
+        },
+        {
+            "name": "California",
+            "score": "8"
+        },
+        {
+            "name": "Texas",
+            "score": "8"
+        },
+        {
+            "name": "Maine",
+            "score": "7"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "7"
+        },
+        {
+            "name": "Nebraska",
+            "score": "7"
+        },
+        {
+            "name": "Iowa",
+            "score": "7"
+        },
+        {
+            "name": "Colorado",
+            "score": "7"
+        },
+        {
+            "name": "Utah",
+            "score": "7"
+        },
+        {
+            "name": "Kansas",
+            "score": "7"
+        },
+        {
+            "name": "Missouri",
+            "score": "6"
+        },
+        {
+            "name": "Minnesota",
+            "score": "6"
+        },
+        {
+            "name": "Montana",
+            "score": "6"
+        },
+        {
+            "name": "Vermont",
+            "score": "6"
+        },
+        {
+            "name": "North Dakota",
+            "score": "6"
+        },
+        {
+            "name": "Hawaii",
+            "score": "6"
+        },
+        {
+            "name": "New Mexico",
+            "score": "6"
+        },
+        {
+            "name": "South Dakota",
+            "score": "6"
+        },
+        {
+            "name": "Oregon",
+            "score": "6"
+        },
+        {
+            "name": "Washington",
+            "score": "5"
+        },
+        {
+            "name": "Wyoming",
+            "score": "4"
+        },
+        {
+            "name": "Alaska",
+            "score": "4"
+        },
+        {
+            "name": "Idaho",
+            "score": "4"
+        }
+    ],
+    "Heat": [
+        {
+            "name": "Florida",
+            "score": "100"
+        },
+        {
+            "name": "Georgia",
+            "score": "20"
+        },
+        {
+            "name": "Mississippi",
+            "score": "17"
+        },
+        {
+            "name": "South Carolina",
+            "score": "15"
+        },
+        {
+            "name": "North Carolina",
+            "score": "15"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "15"
+        },
+        {
+            "name": "Illinois",
+            "score": "14"
+        },
+        {
+            "name": "New Jersey",
+            "score": "14"
+        },
+        {
+            "name": "Maryland",
+            "score": "14"
+        },
+        {
+            "name": "Nevada",
+            "score": "14"
+        },
+        {
+            "name": "Alabama",
+            "score": "14"
+        },
+        {
+            "name": "Delaware",
+            "score": "13"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "13"
+        },
+        {
+            "name": "New York",
+            "score": "13"
+        },
+        {
+            "name": "Hawaii",
+            "score": "13"
+        },
+        {
+            "name": "Indiana",
+            "score": "13"
+        },
+        {
+            "name": "Louisiana",
+            "score": "13"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "12"
+        },
+        {
+            "name": "Ohio",
+            "score": "12"
+        },
+        {
+            "name": "Texas",
+            "score": "12"
+        },
+        {
+            "name": "Tennessee",
+            "score": "12"
+        },
+        {
+            "name": "Connecticut",
+            "score": "12"
+        },
+        {
+            "name": "Virginia",
+            "score": "12"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "12"
+        },
+        {
+            "name": "Michigan",
+            "score": "12"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "12"
+        },
+        {
+            "name": "Kentucky",
+            "score": "11"
+        },
+        {
+            "name": "Arkansas",
+            "score": "11"
+        },
+        {
+            "name": "California",
+            "score": "11"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "11"
+        },
+        {
+            "name": "Arizona",
+            "score": "11"
+        },
+        {
+            "name": "Maine",
+            "score": "10"
+        },
+        {
+            "name": "Colorado",
+            "score": "10"
+        },
+        {
+            "name": "Kansas",
+            "score": "10"
+        },
+        {
+            "name": "New Mexico",
+            "score": "10"
+        },
+        {
+            "name": "Nebraska",
+            "score": "10"
+        },
+        {
+            "name": "West Virginia",
+            "score": "10"
+        },
+        {
+            "name": "South Dakota",
+            "score": "10"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "9"
+        },
+        {
+            "name": "Iowa",
+            "score": "9"
+        },
+        {
+            "name": "Missouri",
+            "score": "9"
+        },
+        {
+            "name": "Vermont",
+            "score": "9"
+        },
+        {
+            "name": "Utah",
+            "score": "8"
+        },
+        {
+            "name": "Alaska",
+            "score": "8"
+        },
+        {
+            "name": "North Dakota",
+            "score": "8"
+        },
+        {
+            "name": "Minnesota",
+            "score": "8"
+        },
+        {
+            "name": "Montana",
+            "score": "8"
+        },
+        {
+            "name": "Washington",
+            "score": "8"
+        },
+        {
+            "name": "Oregon",
+            "score": "7"
+        },
+        {
+            "name": "Wyoming",
+            "score": "6"
+        },
+        {
+            "name": "Idaho",
+            "score": "6"
+        }
+    ],
+    "Magic": [
+        {
+            "name": "Florida",
+            "score": "100"
+        },
+        {
+            "name": "Georgia",
+            "score": "14"
+        },
+        {
+            "name": "Louisiana",
+            "score": "12"
+        },
+        {
+            "name": "Indiana",
+            "score": "12"
+        },
+        {
+            "name": "New Jersey",
+            "score": "12"
+        },
+        {
+            "name": "Mississippi",
+            "score": "12"
+        },
+        {
+            "name": "North Carolina",
+            "score": "12"
+        },
+        {
+            "name": "New York",
+            "score": "12"
+        },
+        {
+            "name": "Ohio",
+            "score": "12"
+        },
+        {
+            "name": "Alabama",
+            "score": "11"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "11"
+        },
+        {
+            "name": "Tennessee",
+            "score": "11"
+        },
+        {
+            "name": "Nevada",
+            "score": "11"
+        },
+        {
+            "name": "Illinois",
+            "score": "11"
+        },
+        {
+            "name": "South Carolina",
+            "score": "11"
+        },
+        {
+            "name": "Maryland",
+            "score": "11"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "11"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "11"
+        },
+        {
+            "name": "Delaware",
+            "score": "11"
+        },
+        {
+            "name": "Connecticut",
+            "score": "10"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "10"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "10"
+        },
+        {
+            "name": "Virginia",
+            "score": "10"
+        },
+        {
+            "name": "Michigan",
+            "score": "9"
+        },
+        {
+            "name": "Kentucky",
+            "score": "9"
+        },
+        {
+            "name": "Arkansas",
+            "score": "9"
+        },
+        {
+            "name": "Hawaii",
+            "score": "9"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "9"
+        },
+        {
+            "name": "Vermont",
+            "score": "9"
+        },
+        {
+            "name": "Arizona",
+            "score": "8"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "8"
+        },
+        {
+            "name": "California",
+            "score": "8"
+        },
+        {
+            "name": "Texas",
+            "score": "8"
+        },
+        {
+            "name": "Maine",
+            "score": "8"
+        },
+        {
+            "name": "Iowa",
+            "score": "8"
+        },
+        {
+            "name": "West Virginia",
+            "score": "8"
+        },
+        {
+            "name": "Colorado",
+            "score": "7"
+        },
+        {
+            "name": "Nebraska",
+            "score": "7"
+        },
+        {
+            "name": "Utah",
+            "score": "7"
+        },
+        {
+            "name": "Missouri",
+            "score": "7"
+        },
+        {
+            "name": "Kansas",
+            "score": "7"
+        },
+        {
+            "name": "Minnesota",
+            "score": "7"
+        },
+        {
+            "name": "North Dakota",
+            "score": "7"
+        },
+        {
+            "name": "South Dakota",
+            "score": "6"
+        },
+        {
+            "name": "Oregon",
+            "score": "6"
+        },
+        {
+            "name": "New Mexico",
+            "score": "6"
+        },
+        {
+            "name": "Wyoming",
+            "score": "6"
+        },
+        {
+            "name": "Washington",
+            "score": "6"
+        },
+        {
+            "name": "Alaska",
+            "score": "5"
+        },
+        {
+            "name": "Montana",
+            "score": "5"
+        },
+        {
+            "name": "Idaho",
+            "score": "4"
+        }
+    ],
+    "Wizards": [
+        {
+            "name": "District of Columbia",
+            "score": "100"
+        },
+        {
+            "name": "Maryland",
+            "score": "82"
+        },
+        {
+            "name": "Virginia",
+            "score": "43"
+        },
+        {
+            "name": "Delaware",
+            "score": "14"
+        },
+        {
+            "name": "West Virginia",
+            "score": "11"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "8"
+        },
+        {
+            "name": "New Jersey",
+            "score": "7"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "7"
+        },
+        {
+            "name": "North Carolina",
+            "score": "7"
+        },
+        {
+            "name": "New York",
+            "score": "7"
+        },
+        {
+            "name": "Illinois",
+            "score": "7"
+        },
+        {
+            "name": "Nevada",
+            "score": "7"
+        },
+        {
+            "name": "Indiana",
+            "score": "7"
+        },
+        {
+            "name": "South Carolina",
+            "score": "7"
+        },
+        {
+            "name": "Connecticut",
+            "score": "6"
+        },
+        {
+            "name": "Georgia",
+            "score": "6"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "6"
+        },
+        {
+            "name": "Ohio",
+            "score": "6"
+        },
+        {
+            "name": "Mississippi",
+            "score": "6"
+        },
+        {
+            "name": "Louisiana",
+            "score": "6"
+        },
+        {
+            "name": "Florida",
+            "score": "6"
+        },
+        {
+            "name": "Tennessee",
+            "score": "6"
+        },
+        {
+            "name": "Kentucky",
+            "score": "6"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "5"
+        },
+        {
+            "name": "Michigan",
+            "score": "5"
+        },
+        {
+            "name": "California",
+            "score": "5"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "5"
+        },
+        {
+            "name": "Arizona",
+            "score": "5"
+        },
+        {
+            "name": "Arkansas",
+            "score": "5"
+        },
+        {
+            "name": "Hawaii",
+            "score": "5"
+        },
+        {
+            "name": "Alabama",
+            "score": "5"
+        },
+        {
+            "name": "Vermont",
+            "score": "5"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "5"
+        },
+        {
+            "name": "Maine",
+            "score": "5"
+        },
+        {
+            "name": "Utah",
+            "score": "5"
+        },
+        {
+            "name": "Colorado",
+            "score": "5"
+        },
+        {
+            "name": "Kansas",
+            "score": "4"
+        },
+        {
+            "name": "Iowa",
+            "score": "4"
+        },
+        {
+            "name": "Missouri",
+            "score": "4"
+        },
+        {
+            "name": "North Dakota",
+            "score": "4"
+        },
+        {
+            "name": "Nebraska",
+            "score": "4"
+        },
+        {
+            "name": "Texas",
+            "score": "4"
+        },
+        {
+            "name": "Washington",
+            "score": "4"
+        },
+        {
+            "name": "Minnesota",
+            "score": "4"
+        },
+        {
+            "name": "Oregon",
+            "score": "4"
+        },
+        {
+            "name": "New Mexico",
+            "score": "4"
+        },
+        {
+            "name": "South Dakota",
+            "score": "3"
+        },
+        {
+            "name": "Alaska",
+            "score": "3"
+        },
+        {
+            "name": "Montana",
+            "score": "3"
+        },
+        {
+            "name": "Idaho",
+            "score": "3"
+        },
+        {
+            "name": "Wyoming",
+            "score": "3"
+        }
+    ],
+    "Nuggets": [
+        {
+            "name": "Colorado",
+            "score": "100"
+        },
+        {
+            "name": "Wyoming",
+            "score": "24"
+        },
+        {
+            "name": "New Mexico",
+            "score": "8"
+        },
+        {
+            "name": "Nebraska",
+            "score": "8"
+        },
+        {
+            "name": "Montana",
+            "score": "7"
+        },
+        {
+            "name": "South Dakota",
+            "score": "7"
+        },
+        {
+            "name": "Arizona",
+            "score": "6"
+        },
+        {
+            "name": "Nevada",
+            "score": "5"
+        },
+        {
+            "name": "Utah",
+            "score": "5"
+        },
+        {
+            "name": "Kansas",
+            "score": "5"
+        },
+        {
+            "name": "North Dakota",
+            "score": "4"
+        },
+        {
+            "name": "Iowa",
+            "score": "4"
+        },
+        {
+            "name": "Mississippi",
+            "score": "4"
+        },
+        {
+            "name": "Minnesota",
+            "score": "4"
+        },
+        {
+            "name": "Hawaii",
+            "score": "4"
+        },
+        {
+            "name": "Louisiana",
+            "score": "4"
+        },
+        {
+            "name": "Maryland",
+            "score": "4"
+        },
+        {
+            "name": "Oregon",
+            "score": "4"
+        },
+        {
+            "name": "Illinois",
+            "score": "4"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "4"
+        },
+        {
+            "name": "Delaware",
+            "score": "4"
+        },
+        {
+            "name": "California",
+            "score": "4"
+        },
+        {
+            "name": "Texas",
+            "score": "4"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "4"
+        },
+        {
+            "name": "Georgia",
+            "score": "4"
+        },
+        {
+            "name": "Idaho",
+            "score": "4"
+        },
+        {
+            "name": "Florida",
+            "score": "3"
+        },
+        {
+            "name": "Indiana",
+            "score": "3"
+        },
+        {
+            "name": "South Carolina",
+            "score": "3"
+        },
+        {
+            "name": "New Jersey",
+            "score": "3"
+        },
+        {
+            "name": "Alabama",
+            "score": "3"
+        },
+        {
+            "name": "Tennessee",
+            "score": "3"
+        },
+        {
+            "name": "Arkansas",
+            "score": "3"
+        },
+        {
+            "name": "Ohio",
+            "score": "3"
+        },
+        {
+            "name": "Alaska",
+            "score": "3"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "3"
+        },
+        {
+            "name": "New York",
+            "score": "3"
+        },
+        {
+            "name": "Kentucky",
+            "score": "3"
+        },
+        {
+            "name": "Connecticut",
+            "score": "3"
+        },
+        {
+            "name": "Missouri",
+            "score": "3"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "3"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "3"
+        },
+        {
+            "name": "Washington",
+            "score": "3"
+        },
+        {
+            "name": "Michigan",
+            "score": "3"
+        },
+        {
+            "name": "North Carolina",
+            "score": "3"
+        },
+        {
+            "name": "Maine",
+            "score": "3"
+        },
+        {
+            "name": "Virginia",
+            "score": "3"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "3"
+        },
+        {
+            "name": "West Virginia",
+            "score": "2"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "2"
+        },
+        {
+            "name": "Vermont",
+            "score": "2"
+        }
+    ],
+    "Timberwolves": [
+        {
+            "name": "Minnesota",
+            "score": "100"
+        },
+        {
+            "name": "North Dakota",
+            "score": "40"
+        },
+        {
+            "name": "South Dakota",
+            "score": "25"
+        },
+        {
+            "name": "Iowa",
+            "score": "8"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "7"
+        },
+        {
+            "name": "Nebraska",
+            "score": "5"
+        },
+        {
+            "name": "Illinois",
+            "score": "4"
+        },
+        {
+            "name": "Colorado",
+            "score": "4"
+        },
+        {
+            "name": "Arizona",
+            "score": "3"
+        },
+        {
+            "name": "Montana",
+            "score": "3"
+        },
+        {
+            "name": "Nevada",
+            "score": "3"
+        },
+        {
+            "name": "Mississippi",
+            "score": "3"
+        },
+        {
+            "name": "Indiana",
+            "score": "3"
+        },
+        {
+            "name": "Louisiana",
+            "score": "2"
+        },
+        {
+            "name": "Utah",
+            "score": "2"
+        },
+        {
+            "name": "Tennessee",
+            "score": "2"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "2"
+        },
+        {
+            "name": "Kansas",
+            "score": "2"
+        },
+        {
+            "name": "Georgia",
+            "score": "2"
+        },
+        {
+            "name": "Arkansas",
+            "score": "2"
+        },
+        {
+            "name": "Alabama",
+            "score": "2"
+        },
+        {
+            "name": "California",
+            "score": "2"
+        },
+        {
+            "name": "Wyoming",
+            "score": "2"
+        },
+        {
+            "name": "Delaware",
+            "score": "2"
+        },
+        {
+            "name": "Florida",
+            "score": "2"
+        },
+        {
+            "name": "South Carolina",
+            "score": "2"
+        },
+        {
+            "name": "Alaska",
+            "score": "2"
+        },
+        {
+            "name": "New Jersey",
+            "score": "2"
+        },
+        {
+            "name": "North Carolina",
+            "score": "2"
+        },
+        {
+            "name": "Maryland",
+            "score": "2"
+        },
+        {
+            "name": "Missouri",
+            "score": "2"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "2"
+        },
+        {
+            "name": "New York",
+            "score": "2"
+        },
+        {
+            "name": "Texas",
+            "score": "2"
+        },
+        {
+            "name": "Michigan",
+            "score": "2"
+        },
+        {
+            "name": "Ohio",
+            "score": "2"
+        },
+        {
+            "name": "Kentucky",
+            "score": "2"
+        },
+        {
+            "name": "Hawaii",
+            "score": "2"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "2"
+        },
+        {
+            "name": "Connecticut",
+            "score": "2"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "2"
+        },
+        {
+            "name": "New Mexico",
+            "score": "2"
+        },
+        {
+            "name": "Oregon",
+            "score": "2"
+        },
+        {
+            "name": "Maine",
+            "score": "2"
+        },
+        {
+            "name": "Virginia",
+            "score": "1"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "1"
+        },
+        {
+            "name": "Idaho",
+            "score": "1"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "1"
+        },
+        {
+            "name": "Washington",
+            "score": "1"
+        },
+        {
+            "name": "Vermont",
+            "score": "1"
+        },
+        {
+            "name": "West Virginia",
+            "score": "1"
+        }
+    ],
+    "Thunder": [
+        {
+            "name": "Oklahoma",
+            "score": "100"
+        },
+        {
+            "name": "Arkansas",
+            "score": "7"
+        },
+        {
+            "name": "Kansas",
+            "score": "6"
+        },
+        {
+            "name": "Texas",
+            "score": "5"
+        },
+        {
+            "name": "Missouri",
+            "score": "4"
+        },
+        {
+            "name": "Louisiana",
+            "score": "4"
+        },
+        {
+            "name": "Mississippi",
+            "score": "4"
+        },
+        {
+            "name": "Nebraska",
+            "score": "3"
+        },
+        {
+            "name": "Georgia",
+            "score": "3"
+        },
+        {
+            "name": "New Mexico",
+            "score": "3"
+        },
+        {
+            "name": "Nevada",
+            "score": "3"
+        },
+        {
+            "name": "Maryland",
+            "score": "3"
+        },
+        {
+            "name": "South Carolina",
+            "score": "3"
+        },
+        {
+            "name": "Illinois",
+            "score": "3"
+        },
+        {
+            "name": "New York",
+            "score": "3"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "3"
+        },
+        {
+            "name": "Alabama",
+            "score": "3"
+        },
+        {
+            "name": "Tennessee",
+            "score": "3"
+        },
+        {
+            "name": "Utah",
+            "score": "3"
+        },
+        {
+            "name": "South Dakota",
+            "score": "3"
+        },
+        {
+            "name": "North Carolina",
+            "score": "2"
+        },
+        {
+            "name": "Ohio",
+            "score": "2"
+        },
+        {
+            "name": "New Jersey",
+            "score": "2"
+        },
+        {
+            "name": "Iowa",
+            "score": "2"
+        },
+        {
+            "name": "Delaware",
+            "score": "2"
+        },
+        {
+            "name": "Arizona",
+            "score": "2"
+        },
+        {
+            "name": "Florida",
+            "score": "2"
+        },
+        {
+            "name": "California",
+            "score": "2"
+        },
+        {
+            "name": "Colorado",
+            "score": "2"
+        },
+        {
+            "name": "Indiana",
+            "score": "2"
+        },
+        {
+            "name": "Hawaii",
+            "score": "2"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "2"
+        },
+        {
+            "name": "Michigan",
+            "score": "2"
+        },
+        {
+            "name": "Kentucky",
+            "score": "2"
+        },
+        {
+            "name": "Washington",
+            "score": "2"
+        },
+        {
+            "name": "Connecticut",
+            "score": "2"
+        },
+        {
+            "name": "Alaska",
+            "score": "2"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "2"
+        },
+        {
+            "name": "North Dakota",
+            "score": "2"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "2"
+        },
+        {
+            "name": "Wyoming",
+            "score": "2"
+        },
+        {
+            "name": "Montana",
+            "score": "2"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "2"
+        },
+        {
+            "name": "Minnesota",
+            "score": "2"
+        },
+        {
+            "name": "Oregon",
+            "score": "2"
+        },
+        {
+            "name": "Virginia",
+            "score": "2"
+        },
+        {
+            "name": "West Virginia",
+            "score": "2"
+        },
+        {
+            "name": "Idaho",
+            "score": "2"
+        },
+        {
+            "name": "Maine",
+            "score": "1"
+        },
+        {
+            "name": "Vermont",
+            "score": "1"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "1"
+        }
+    ],
+    "Blazers": [
+        {
+            "name": "Oregon",
+            "score": "100"
+        },
+        {
+            "name": "Washington",
+            "score": "16"
+        },
+        {
+            "name": "Idaho",
+            "score": "5"
+        },
+        {
+            "name": "Montana",
+            "score": "4"
+        },
+        {
+            "name": "Hawaii",
+            "score": "4"
+        },
+        {
+            "name": "Utah",
+            "score": "3"
+        },
+        {
+            "name": "Alaska",
+            "score": "3"
+        },
+        {
+            "name": "Nevada",
+            "score": "3"
+        },
+        {
+            "name": "Arizona",
+            "score": "3"
+        },
+        {
+            "name": "California",
+            "score": "3"
+        },
+        {
+            "name": "Mississippi",
+            "score": "2"
+        },
+        {
+            "name": "Colorado",
+            "score": "2"
+        },
+        {
+            "name": "New Jersey",
+            "score": "2"
+        },
+        {
+            "name": "New York",
+            "score": "2"
+        },
+        {
+            "name": "Louisiana",
+            "score": "2"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "2"
+        },
+        {
+            "name": "Illinois",
+            "score": "2"
+        },
+        {
+            "name": "Georgia",
+            "score": "2"
+        },
+        {
+            "name": "Texas",
+            "score": "2"
+        },
+        {
+            "name": "Maryland",
+            "score": "2"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "2"
+        },
+        {
+            "name": "Tennessee",
+            "score": "2"
+        },
+        {
+            "name": "Indiana",
+            "score": "2"
+        },
+        {
+            "name": "Delaware",
+            "score": "2"
+        },
+        {
+            "name": "Alabama",
+            "score": "2"
+        },
+        {
+            "name": "Arkansas",
+            "score": "2"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "2"
+        },
+        {
+            "name": "Connecticut",
+            "score": "2"
+        },
+        {
+            "name": "Iowa",
+            "score": "2"
+        },
+        {
+            "name": "North Carolina",
+            "score": "2"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "2"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "2"
+        },
+        {
+            "name": "Michigan",
+            "score": "2"
+        },
+        {
+            "name": "South Carolina",
+            "score": "2"
+        },
+        {
+            "name": "Nebraska",
+            "score": "2"
+        },
+        {
+            "name": "New Mexico",
+            "score": "2"
+        },
+        {
+            "name": "Ohio",
+            "score": "2"
+        },
+        {
+            "name": "Minnesota",
+            "score": "2"
+        },
+        {
+            "name": "Kentucky",
+            "score": "2"
+        },
+        {
+            "name": "South Dakota",
+            "score": "2"
+        },
+        {
+            "name": "Maine",
+            "score": "1"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "1"
+        },
+        {
+            "name": "North Dakota",
+            "score": "1"
+        },
+        {
+            "name": "Florida",
+            "score": "1"
+        },
+        {
+            "name": "Virginia",
+            "score": "1"
+        },
+        {
+            "name": "Wyoming",
+            "score": "1"
+        },
+        {
+            "name": "Missouri",
+            "score": "1"
+        },
+        {
+            "name": "Kansas",
+            "score": "1"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "1"
+        },
+        {
+            "name": "West Virginia",
+            "score": "1"
+        },
+        {
+            "name": "Vermont",
+            "score": "1"
+        }
+    ],
+    "Jazz": [
+        {
+            "name": "Utah",
+            "score": "100"
+        },
+        {
+            "name": "Idaho",
+            "score": "11"
+        },
+        {
+            "name": "Wyoming",
+            "score": "8"
+        },
+        {
+            "name": "Montana",
+            "score": "3"
+        },
+        {
+            "name": "Nevada",
+            "score": "3"
+        },
+        {
+            "name": "Colorado",
+            "score": "2"
+        },
+        {
+            "name": "Arizona",
+            "score": "2"
+        },
+        {
+            "name": "Hawaii",
+            "score": "1"
+        },
+        {
+            "name": "California",
+            "score": "1"
+        },
+        {
+            "name": "Oregon",
+            "score": "1"
+        },
+        {
+            "name": "Alaska",
+            "score": "1"
+        },
+        {
+            "name": "New Mexico",
+            "score": "1"
+        },
+        {
+            "name": "Washington",
+            "score": "1"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "1"
+        },
+        {
+            "name": "Louisiana",
+            "score": "1"
+        },
+        {
+            "name": "Mississippi",
+            "score": "1"
+        },
+        {
+            "name": "Indiana",
+            "score": "1"
+        },
+        {
+            "name": "Illinois",
+            "score": "1"
+        },
+        {
+            "name": "Texas",
+            "score": "1"
+        },
+        {
+            "name": "New Jersey",
+            "score": "1"
+        },
+        {
+            "name": "Iowa",
+            "score": "1"
+        },
+        {
+            "name": "Nebraska",
+            "score": "1"
+        },
+        {
+            "name": "Kentucky",
+            "score": "1"
+        },
+        {
+            "name": "Tennessee",
+            "score": "1"
+        },
+        {
+            "name": "New York",
+            "score": "1"
+        },
+        {
+            "name": "Georgia",
+            "score": "1"
+        },
+        {
+            "name": "Delaware",
+            "score": "1"
+        },
+        {
+            "name": "Maryland",
+            "score": "1"
+        },
+        {
+            "name": "Ohio",
+            "score": "1"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "1"
+        },
+        {
+            "name": "Arkansas",
+            "score": "1"
+        },
+        {
+            "name": "South Carolina",
+            "score": "1"
+        },
+        {
+            "name": "Alabama",
+            "score": "1"
+        },
+        {
+            "name": "Kansas",
+            "score": "1"
+        },
+        {
+            "name": "North Dakota",
+            "score": "1"
+        },
+        {
+            "name": "South Dakota",
+            "score": "1"
+        },
+        {
+            "name": "Michigan",
+            "score": "1"
+        },
+        {
+            "name": "Connecticut",
+            "score": "1"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "1"
+        },
+        {
+            "name": "Florida",
+            "score": "1"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "1"
+        },
+        {
+            "name": "North Carolina",
+            "score": "<1"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "<1"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "<1"
+        },
+        {
+            "name": "Minnesota",
+            "score": "<1"
+        },
+        {
+            "name": "Virginia",
+            "score": "<1"
+        },
+        {
+            "name": "Missouri",
+            "score": "<1"
+        },
+        {
+            "name": "West Virginia",
+            "score": "<1"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "<1"
+        },
+        {
+            "name": "Vermont",
+            "score": "<1"
+        },
+        {
+            "name": "Maine",
+            "score": "<1"
+        }
+    ],
+    "Warriors": [
+        {
+            "name": "California",
+            "score": "100"
+        },
+        {
+            "name": "Nevada",
+            "score": "47"
+        },
+        {
+            "name": "Hawaii",
+            "score": "42"
+        },
+        {
+            "name": "Mississippi",
+            "score": "37"
+        },
+        {
+            "name": "Alabama",
+            "score": "29"
+        },
+        {
+            "name": "Georgia",
+            "score": "29"
+        },
+        {
+            "name": "Louisiana",
+            "score": "29"
+        },
+        {
+            "name": "New Mexico",
+            "score": "29"
+        },
+        {
+            "name": "Arizona",
+            "score": "29"
+        },
+        {
+            "name": "Arkansas",
+            "score": "28"
+        },
+        {
+            "name": "North Carolina",
+            "score": "26"
+        },
+        {
+            "name": "South Carolina",
+            "score": "26"
+        },
+        {
+            "name": "Illinois",
+            "score": "26"
+        },
+        {
+            "name": "Tennessee",
+            "score": "25"
+        },
+        {
+            "name": "Delaware",
+            "score": "25"
+        },
+        {
+            "name": "Texas",
+            "score": "25"
+        },
+        {
+            "name": "Washington",
+            "score": "25"
+        },
+        {
+            "name": "Idaho",
+            "score": "25"
+        },
+        {
+            "name": "Oregon",
+            "score": "24"
+        },
+        {
+            "name": "Montana",
+            "score": "24"
+        },
+        {
+            "name": "South Dakota",
+            "score": "24"
+        },
+        {
+            "name": "Ohio",
+            "score": "24"
+        },
+        {
+            "name": "Utah",
+            "score": "24"
+        },
+        {
+            "name": "Indiana",
+            "score": "23"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "23"
+        },
+        {
+            "name": "Maryland",
+            "score": "23"
+        },
+        {
+            "name": "Nebraska",
+            "score": "23"
+        },
+        {
+            "name": "Florida",
+            "score": "22"
+        },
+        {
+            "name": "New York",
+            "score": "22"
+        },
+        {
+            "name": "Alaska",
+            "score": "22"
+        },
+        {
+            "name": "Michigan",
+            "score": "22"
+        },
+        {
+            "name": "New Jersey",
+            "score": "22"
+        },
+        {
+            "name": "Iowa",
+            "score": "21"
+        },
+        {
+            "name": "Wyoming",
+            "score": "21"
+        },
+        {
+            "name": "Kentucky",
+            "score": "21"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "20"
+        },
+        {
+            "name": "Colorado",
+            "score": "20"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "19"
+        },
+        {
+            "name": "North Dakota",
+            "score": "19"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "19"
+        },
+        {
+            "name": "Connecticut",
+            "score": "18"
+        },
+        {
+            "name": "Virginia",
+            "score": "18"
+        },
+        {
+            "name": "Missouri",
+            "score": "18"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "18"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "17"
+        },
+        {
+            "name": "West Virginia",
+            "score": "17"
+        },
+        {
+            "name": "Kansas",
+            "score": "17"
+        },
+        {
+            "name": "Minnesota",
+            "score": "16"
+        },
+        {
+            "name": "Vermont",
+            "score": "15"
+        },
+        {
+            "name": "Maine",
+            "score": "14"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "14"
+        }
+    ],
+    "Clippers": [
+        {
+            "name": "California",
+            "score": "100"
+        },
+        {
+            "name": "Hawaii",
+            "score": "52"
+        },
+        {
+            "name": "Nevada",
+            "score": "52"
+        },
+        {
+            "name": "Arizona",
+            "score": "38"
+        },
+        {
+            "name": "Utah",
+            "score": "36"
+        },
+        {
+            "name": "Mississippi",
+            "score": "35"
+        },
+        {
+            "name": "Louisiana",
+            "score": "33"
+        },
+        {
+            "name": "Ohio",
+            "score": "31"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "31"
+        },
+        {
+            "name": "Texas",
+            "score": "30"
+        },
+        {
+            "name": "Illinois",
+            "score": "29"
+        },
+        {
+            "name": "Georgia",
+            "score": "28"
+        },
+        {
+            "name": "Delaware",
+            "score": "27"
+        },
+        {
+            "name": "New York",
+            "score": "27"
+        },
+        {
+            "name": "Maryland",
+            "score": "27"
+        },
+        {
+            "name": "Arkansas",
+            "score": "26"
+        },
+        {
+            "name": "New Jersey",
+            "score": "26"
+        },
+        {
+            "name": "Alabama",
+            "score": "25"
+        },
+        {
+            "name": "South Carolina",
+            "score": "25"
+        },
+        {
+            "name": "Indiana",
+            "score": "25"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "25"
+        },
+        {
+            "name": "North Carolina",
+            "score": "24"
+        },
+        {
+            "name": "Colorado",
+            "score": "24"
+        },
+        {
+            "name": "Florida",
+            "score": "24"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "23"
+        },
+        {
+            "name": "Michigan",
+            "score": "23"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "23"
+        },
+        {
+            "name": "Tennessee",
+            "score": "23"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "23"
+        },
+        {
+            "name": "Oregon",
+            "score": "23"
+        },
+        {
+            "name": "Connecticut",
+            "score": "22"
+        },
+        {
+            "name": "New Mexico",
+            "score": "22"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "22"
+        },
+        {
+            "name": "Kentucky",
+            "score": "22"
+        },
+        {
+            "name": "Washington",
+            "score": "22"
+        },
+        {
+            "name": "Virginia",
+            "score": "21"
+        },
+        {
+            "name": "Nebraska",
+            "score": "21"
+        },
+        {
+            "name": "Iowa",
+            "score": "20"
+        },
+        {
+            "name": "South Dakota",
+            "score": "20"
+        },
+        {
+            "name": "Alaska",
+            "score": "20"
+        },
+        {
+            "name": "Missouri",
+            "score": "19"
+        },
+        {
+            "name": "Minnesota",
+            "score": "19"
+        },
+        {
+            "name": "Kansas",
+            "score": "19"
+        },
+        {
+            "name": "West Virginia",
+            "score": "18"
+        },
+        {
+            "name": "Idaho",
+            "score": "18"
+        },
+        {
+            "name": "North Dakota",
+            "score": "17"
+        },
+        {
+            "name": "Montana",
+            "score": "17"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "16"
+        },
+        {
+            "name": "Maine",
+            "score": "16"
+        },
+        {
+            "name": "Wyoming",
+            "score": "15"
+        },
+        {
+            "name": "Vermont",
+            "score": "12"
+        }
+    ],
+    "Lakers": [
+        {
+            "name": "California",
+            "score": "100"
+        },
+        {
+            "name": "Nevada",
+            "score": "65"
+        },
+        {
+            "name": "Hawaii",
+            "score": "62"
+        },
+        {
+            "name": "Mississippi",
+            "score": "38"
+        },
+        {
+            "name": "New Mexico",
+            "score": "37"
+        },
+        {
+            "name": "Arizona",
+            "score": "34"
+        },
+        {
+            "name": "Louisiana",
+            "score": "31"
+        },
+        {
+            "name": "Alabama",
+            "score": "30"
+        },
+        {
+            "name": "Arkansas",
+            "score": "30"
+        },
+        {
+            "name": "Georgia",
+            "score": "29"
+        },
+        {
+            "name": "South Carolina",
+            "score": "28"
+        },
+        {
+            "name": "Ohio",
+            "score": "27"
+        },
+        {
+            "name": "Tennessee",
+            "score": "27"
+        },
+        {
+            "name": "Maryland",
+            "score": "26"
+        },
+        {
+            "name": "Texas",
+            "score": "26"
+        },
+        {
+            "name": "Utah",
+            "score": "25"
+        },
+        {
+            "name": "North Carolina",
+            "score": "25"
+        },
+        {
+            "name": "Delaware",
+            "score": "24"
+        },
+        {
+            "name": "South Dakota",
+            "score": "24"
+        },
+        {
+            "name": "Nebraska",
+            "score": "23"
+        },
+        {
+            "name": "Indiana",
+            "score": "23"
+        },
+        {
+            "name": "Washington",
+            "score": "23"
+        },
+        {
+            "name": "Alaska",
+            "score": "23"
+        },
+        {
+            "name": "Florida",
+            "score": "22"
+        },
+        {
+            "name": "Iowa",
+            "score": "22"
+        },
+        {
+            "name": "Idaho",
+            "score": "22"
+        },
+        {
+            "name": "New Jersey",
+            "score": "22"
+        },
+        {
+            "name": "Virginia",
+            "score": "22"
+        },
+        {
+            "name": "Kentucky",
+            "score": "21"
+        },
+        {
+            "name": "Oregon",
+            "score": "21"
+        },
+        {
+            "name": "New York",
+            "score": "21"
+        },
+        {
+            "name": "Michigan",
+            "score": "21"
+        },
+        {
+            "name": "Illinois",
+            "score": "20"
+        },
+        {
+            "name": "West Virginia",
+            "score": "20"
+        },
+        {
+            "name": "Colorado",
+            "score": "20"
+        },
+        {
+            "name": "North Dakota",
+            "score": "20"
+        },
+        {
+            "name": "Montana",
+            "score": "20"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "20"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "19"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "19"
+        },
+        {
+            "name": "Missouri",
+            "score": "19"
+        },
+        {
+            "name": "Connecticut",
+            "score": "18"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "18"
+        },
+        {
+            "name": "Kansas",
+            "score": "18"
+        },
+        {
+            "name": "Wyoming",
+            "score": "18"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "17"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "16"
+        },
+        {
+            "name": "Minnesota",
+            "score": "15"
+        },
+        {
+            "name": "Vermont",
+            "score": "13"
+        },
+        {
+            "name": "Maine",
+            "score": "13"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "11"
+        }
+    ],
+    "Suns": [
+        {
+            "name": "Arizona",
+            "score": "100"
+        },
+        {
+            "name": "New Mexico",
+            "score": "9"
+        },
+        {
+            "name": "Nevada",
+            "score": "8"
+        },
+        {
+            "name": "Utah",
+            "score": "6"
+        },
+        {
+            "name": "California",
+            "score": "4"
+        },
+        {
+            "name": "Idaho",
+            "score": "4"
+        },
+        {
+            "name": "Montana",
+            "score": "4"
+        },
+        {
+            "name": "Colorado",
+            "score": "4"
+        },
+        {
+            "name": "Mississippi",
+            "score": "4"
+        },
+        {
+            "name": "Louisiana",
+            "score": "4"
+        },
+        {
+            "name": "Hawaii",
+            "score": "4"
+        },
+        {
+            "name": "South Dakota",
+            "score": "3"
+        },
+        {
+            "name": "Iowa",
+            "score": "3"
+        },
+        {
+            "name": "Texas",
+            "score": "3"
+        },
+        {
+            "name": "Indiana",
+            "score": "3"
+        },
+        {
+            "name": "Illinois",
+            "score": "3"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "3"
+        },
+        {
+            "name": "Kentucky",
+            "score": "3"
+        },
+        {
+            "name": "New Jersey",
+            "score": "3"
+        },
+        {
+            "name": "North Dakota",
+            "score": "3"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "3"
+        },
+        {
+            "name": "Delaware",
+            "score": "3"
+        },
+        {
+            "name": "Nebraska",
+            "score": "3"
+        },
+        {
+            "name": "Ohio",
+            "score": "3"
+        },
+        {
+            "name": "Arkansas",
+            "score": "3"
+        },
+        {
+            "name": "Alabama",
+            "score": "3"
+        },
+        {
+            "name": "Oregon",
+            "score": "3"
+        },
+        {
+            "name": "Maryland",
+            "score": "3"
+        },
+        {
+            "name": "Georgia",
+            "score": "3"
+        },
+        {
+            "name": "North Carolina",
+            "score": "3"
+        },
+        {
+            "name": "Wyoming",
+            "score": "3"
+        },
+        {
+            "name": "Alaska",
+            "score": "3"
+        },
+        {
+            "name": "Tennessee",
+            "score": "3"
+        },
+        {
+            "name": "Connecticut",
+            "score": "3"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "3"
+        },
+        {
+            "name": "Florida",
+            "score": "3"
+        },
+        {
+            "name": "Michigan",
+            "score": "3"
+        },
+        {
+            "name": "New York",
+            "score": "3"
+        },
+        {
+            "name": "South Carolina",
+            "score": "3"
+        },
+        {
+            "name": "West Virginia",
+            "score": "3"
+        },
+        {
+            "name": "Minnesota",
+            "score": "3"
+        },
+        {
+            "name": "Kansas",
+            "score": "3"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "3"
+        },
+        {
+            "name": "Washington",
+            "score": "3"
+        },
+        {
+            "name": "Virginia",
+            "score": "3"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "3"
+        },
+        {
+            "name": "Missouri",
+            "score": "2"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "2"
+        },
+        {
+            "name": "Maine",
+            "score": "2"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "2"
+        },
+        {
+            "name": "Vermont",
+            "score": "2"
+        }
+    ],
+    "Kings": [
+        {
+            "name": "California",
+            "score": "100"
+        },
+        {
+            "name": "Nevada",
+            "score": "42"
+        },
+        {
+            "name": "Iowa",
+            "score": "21"
+        },
+        {
+            "name": "Hawaii",
+            "score": "20"
+        },
+        {
+            "name": "Utah",
+            "score": "19"
+        },
+        {
+            "name": "Arizona",
+            "score": "19"
+        },
+        {
+            "name": "Oregon",
+            "score": "17"
+        },
+        {
+            "name": "Washington",
+            "score": "17"
+        },
+        {
+            "name": "Idaho",
+            "score": "17"
+        },
+        {
+            "name": "Louisiana",
+            "score": "15"
+        },
+        {
+            "name": "Mississippi",
+            "score": "14"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "14"
+        },
+        {
+            "name": "New Jersey",
+            "score": "14"
+        },
+        {
+            "name": "Illinois",
+            "score": "14"
+        },
+        {
+            "name": "Indiana",
+            "score": "14"
+        },
+        {
+            "name": "Colorado",
+            "score": "14"
+        },
+        {
+            "name": "Kentucky",
+            "score": "13"
+        },
+        {
+            "name": "Ohio",
+            "score": "13"
+        },
+        {
+            "name": "Tennessee",
+            "score": "13"
+        },
+        {
+            "name": "Maryland",
+            "score": "13"
+        },
+        {
+            "name": "Kansas",
+            "score": "13"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "13"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "12"
+        },
+        {
+            "name": "New York",
+            "score": "12"
+        },
+        {
+            "name": "Delaware",
+            "score": "12"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "12"
+        },
+        {
+            "name": "Arkansas",
+            "score": "12"
+        },
+        {
+            "name": "Texas",
+            "score": "12"
+        },
+        {
+            "name": "North Carolina",
+            "score": "12"
+        },
+        {
+            "name": "Georgia",
+            "score": "12"
+        },
+        {
+            "name": "Alabama",
+            "score": "12"
+        },
+        {
+            "name": "South Carolina",
+            "score": "11"
+        },
+        {
+            "name": "Montana",
+            "score": "11"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "11"
+        },
+        {
+            "name": "New Mexico",
+            "score": "11"
+        },
+        {
+            "name": "Michigan",
+            "score": "11"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "11"
+        },
+        {
+            "name": "Nebraska",
+            "score": "11"
+        },
+        {
+            "name": "Connecticut",
+            "score": "11"
+        },
+        {
+            "name": "Missouri",
+            "score": "11"
+        },
+        {
+            "name": "Virginia",
+            "score": "11"
+        },
+        {
+            "name": "Florida",
+            "score": "11"
+        },
+        {
+            "name": "West Virginia",
+            "score": "11"
+        },
+        {
+            "name": "Minnesota",
+            "score": "11"
+        },
+        {
+            "name": "Alaska",
+            "score": "10"
+        },
+        {
+            "name": "South Dakota",
+            "score": "10"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "9"
+        },
+        {
+            "name": "Wyoming",
+            "score": "9"
+        },
+        {
+            "name": "North Dakota",
+            "score": "9"
+        },
+        {
+            "name": "Maine",
+            "score": "7"
+        },
+        {
+            "name": "Vermont",
+            "score": "6"
+        }
+    ],
+    "Mavericks": [
+        {
+            "name": "Texas",
+            "score": "100"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "26"
+        },
+        {
+            "name": "Arkansas",
+            "score": "21"
+        },
+        {
+            "name": "Louisiana",
+            "score": "19"
+        },
+        {
+            "name": "Mississippi",
+            "score": "18"
+        },
+        {
+            "name": "New Mexico",
+            "score": "16"
+        },
+        {
+            "name": "Nevada",
+            "score": "16"
+        },
+        {
+            "name": "California",
+            "score": "15"
+        },
+        {
+            "name": "Colorado",
+            "score": "15"
+        },
+        {
+            "name": "Arizona",
+            "score": "15"
+        },
+        {
+            "name": "Illinois",
+            "score": "13"
+        },
+        {
+            "name": "New Jersey",
+            "score": "13"
+        },
+        {
+            "name": "Utah",
+            "score": "13"
+        },
+        {
+            "name": "Kansas",
+            "score": "13"
+        },
+        {
+            "name": "Tennessee",
+            "score": "13"
+        },
+        {
+            "name": "Hawaii",
+            "score": "13"
+        },
+        {
+            "name": "Alabama",
+            "score": "13"
+        },
+        {
+            "name": "Minnesota",
+            "score": "12"
+        },
+        {
+            "name": "Maryland",
+            "score": "12"
+        },
+        {
+            "name": "Florida",
+            "score": "12"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "12"
+        },
+        {
+            "name": "Indiana",
+            "score": "12"
+        },
+        {
+            "name": "New York",
+            "score": "12"
+        },
+        {
+            "name": "Nebraska",
+            "score": "12"
+        },
+        {
+            "name": "South Dakota",
+            "score": "12"
+        },
+        {
+            "name": "Delaware",
+            "score": "12"
+        },
+        {
+            "name": "Georgia",
+            "score": "12"
+        },
+        {
+            "name": "South Carolina",
+            "score": "12"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "11"
+        },
+        {
+            "name": "Missouri",
+            "score": "11"
+        },
+        {
+            "name": "North Carolina",
+            "score": "11"
+        },
+        {
+            "name": "Ohio",
+            "score": "11"
+        },
+        {
+            "name": "North Dakota",
+            "score": "11"
+        },
+        {
+            "name": "Iowa",
+            "score": "11"
+        },
+        {
+            "name": "Connecticut",
+            "score": "11"
+        },
+        {
+            "name": "Montana",
+            "score": "10"
+        },
+        {
+            "name": "Kentucky",
+            "score": "10"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "10"
+        },
+        {
+            "name": "Michigan",
+            "score": "10"
+        },
+        {
+            "name": "Virginia",
+            "score": "10"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "10"
+        },
+        {
+            "name": "Oregon",
+            "score": "10"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "10"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "10"
+        },
+        {
+            "name": "Wyoming",
+            "score": "10"
+        },
+        {
+            "name": "Alaska",
+            "score": "9"
+        },
+        {
+            "name": "West Virginia",
+            "score": "9"
+        },
+        {
+            "name": "Idaho",
+            "score": "9"
+        },
+        {
+            "name": "Maine",
+            "score": "9"
+        },
+        {
+            "name": "Washington",
+            "score": "9"
+        },
+        {
+            "name": "Vermont",
+            "score": "8"
+        }
+    ],
+    "Rockets": [
+        {
+            "name": "Texas",
+            "score": "100"
+        },
+        {
+            "name": "Louisiana",
+            "score": "23"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "21"
+        },
+        {
+            "name": "Mississippi",
+            "score": "16"
+        },
+        {
+            "name": "Nevada",
+            "score": "14"
+        },
+        {
+            "name": "Utah",
+            "score": "14"
+        },
+        {
+            "name": "Arkansas",
+            "score": "14"
+        },
+        {
+            "name": "Georgia",
+            "score": "13"
+        },
+        {
+            "name": "California",
+            "score": "13"
+        },
+        {
+            "name": "Alabama",
+            "score": "13"
+        },
+        {
+            "name": "New Jersey",
+            "score": "12"
+        },
+        {
+            "name": "Illinois",
+            "score": "12"
+        },
+        {
+            "name": "Maryland",
+            "score": "12"
+        },
+        {
+            "name": "Tennessee",
+            "score": "12"
+        },
+        {
+            "name": "New Mexico",
+            "score": "12"
+        },
+        {
+            "name": "South Carolina",
+            "score": "11"
+        },
+        {
+            "name": "Hawaii",
+            "score": "11"
+        },
+        {
+            "name": "Ohio",
+            "score": "11"
+        },
+        {
+            "name": "Arizona",
+            "score": "11"
+        },
+        {
+            "name": "New York",
+            "score": "11"
+        },
+        {
+            "name": "Indiana",
+            "score": "11"
+        },
+        {
+            "name": "Colorado",
+            "score": "11"
+        },
+        {
+            "name": "Kentucky",
+            "score": "11"
+        },
+        {
+            "name": "Delaware",
+            "score": "11"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "10"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "10"
+        },
+        {
+            "name": "Florida",
+            "score": "10"
+        },
+        {
+            "name": "North Carolina",
+            "score": "10"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "10"
+        },
+        {
+            "name": "Kansas",
+            "score": "10"
+        },
+        {
+            "name": "Alaska",
+            "score": "10"
+        },
+        {
+            "name": "Iowa",
+            "score": "10"
+        },
+        {
+            "name": "Connecticut",
+            "score": "10"
+        },
+        {
+            "name": "Michigan",
+            "score": "10"
+        },
+        {
+            "name": "Virginia",
+            "score": "10"
+        },
+        {
+            "name": "Nebraska",
+            "score": "10"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "10"
+        },
+        {
+            "name": "Missouri",
+            "score": "10"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "9"
+        },
+        {
+            "name": "South Dakota",
+            "score": "9"
+        },
+        {
+            "name": "Oregon",
+            "score": "9"
+        },
+        {
+            "name": "North Dakota",
+            "score": "9"
+        },
+        {
+            "name": "Minnesota",
+            "score": "8"
+        },
+        {
+            "name": "West Virginia",
+            "score": "8"
+        },
+        {
+            "name": "Wyoming",
+            "score": "8"
+        },
+        {
+            "name": "Washington",
+            "score": "8"
+        },
+        {
+            "name": "Idaho",
+            "score": "7"
+        },
+        {
+            "name": "Montana",
+            "score": "7"
+        },
+        {
+            "name": "Vermont",
+            "score": "7"
+        },
+        {
+            "name": "Maine",
+            "score": "7"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "7"
+        }
+    ],
+    "Grizzlies": [
+        {
+            "name": "Tennessee",
+            "score": "100"
+        },
+        {
+            "name": "Mississippi",
+            "score": "61"
+        },
+        {
+            "name": "Arkansas",
+            "score": "34"
+        },
+        {
+            "name": "Montana",
+            "score": "14"
+        },
+        {
+            "name": "Alabama",
+            "score": "13"
+        },
+        {
+            "name": "Kentucky",
+            "score": "11"
+        },
+        {
+            "name": "Georgia",
+            "score": "10"
+        },
+        {
+            "name": "Louisiana",
+            "score": "10"
+        },
+        {
+            "name": "Utah",
+            "score": "9"
+        },
+        {
+            "name": "Missouri",
+            "score": "9"
+        },
+        {
+            "name": "Indiana",
+            "score": "8"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "8"
+        },
+        {
+            "name": "South Carolina",
+            "score": "8"
+        },
+        {
+            "name": "Nevada",
+            "score": "7"
+        },
+        {
+            "name": "Illinois",
+            "score": "7"
+        },
+        {
+            "name": "Arizona",
+            "score": "7"
+        },
+        {
+            "name": "North Carolina",
+            "score": "7"
+        },
+        {
+            "name": "Texas",
+            "score": "7"
+        },
+        {
+            "name": "Maryland",
+            "score": "7"
+        },
+        {
+            "name": "Ohio",
+            "score": "6"
+        },
+        {
+            "name": "Delaware",
+            "score": "6"
+        },
+        {
+            "name": "California",
+            "score": "6"
+        },
+        {
+            "name": "Florida",
+            "score": "6"
+        },
+        {
+            "name": "Minnesota",
+            "score": "6"
+        },
+        {
+            "name": "Michigan",
+            "score": "6"
+        },
+        {
+            "name": "Colorado",
+            "score": "6"
+        },
+        {
+            "name": "New Jersey",
+            "score": "6"
+        },
+        {
+            "name": "New York",
+            "score": "6"
+        },
+        {
+            "name": "Connecticut",
+            "score": "6"
+        },
+        {
+            "name": "Virginia",
+            "score": "5"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "5"
+        },
+        {
+            "name": "West Virginia",
+            "score": "5"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "5"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "5"
+        },
+        {
+            "name": "Iowa",
+            "score": "5"
+        },
+        {
+            "name": "Kansas",
+            "score": "5"
+        },
+        {
+            "name": "South Dakota",
+            "score": "5"
+        },
+        {
+            "name": "Oregon",
+            "score": "5"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "5"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "5"
+        },
+        {
+            "name": "North Dakota",
+            "score": "5"
+        },
+        {
+            "name": "Nebraska",
+            "score": "5"
+        },
+        {
+            "name": "New Mexico",
+            "score": "5"
+        },
+        {
+            "name": "Hawaii",
+            "score": "4"
+        },
+        {
+            "name": "Alaska",
+            "score": "4"
+        },
+        {
+            "name": "Washington",
+            "score": "4"
+        },
+        {
+            "name": "Idaho",
+            "score": "4"
+        },
+        {
+            "name": "Wyoming",
+            "score": "4"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "4"
+        },
+        {
+            "name": "Maine",
+            "score": "3"
+        },
+        {
+            "name": "Vermont",
+            "score": "3"
+        }
+    ],
+    "Pelicans": [
+        {
+            "name": "Louisiana",
+            "score": "100"
+        },
+        {
+            "name": "Mississippi",
+            "score": "17"
+        },
+        {
+            "name": "Alabama",
+            "score": "7"
+        },
+        {
+            "name": "South Carolina",
+            "score": "5"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "5"
+        },
+        {
+            "name": "Texas",
+            "score": "5"
+        },
+        {
+            "name": "North Carolina",
+            "score": "4"
+        },
+        {
+            "name": "Georgia",
+            "score": "4"
+        },
+        {
+            "name": "Tennessee",
+            "score": "4"
+        },
+        {
+            "name": "Nevada",
+            "score": "4"
+        },
+        {
+            "name": "Arizona",
+            "score": "4"
+        },
+        {
+            "name": "Kentucky",
+            "score": "3"
+        },
+        {
+            "name": "New Mexico",
+            "score": "3"
+        },
+        {
+            "name": "Arkansas",
+            "score": "3"
+        },
+        {
+            "name": "New Jersey",
+            "score": "3"
+        },
+        {
+            "name": "Indiana",
+            "score": "3"
+        },
+        {
+            "name": "Maryland",
+            "score": "3"
+        },
+        {
+            "name": "Florida",
+            "score": "3"
+        },
+        {
+            "name": "Ohio",
+            "score": "3"
+        },
+        {
+            "name": "Illinois",
+            "score": "3"
+        },
+        {
+            "name": "Delaware",
+            "score": "3"
+        },
+        {
+            "name": "Utah",
+            "score": "3"
+        },
+        {
+            "name": "California",
+            "score": "3"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "3"
+        },
+        {
+            "name": "New York",
+            "score": "3"
+        },
+        {
+            "name": "Connecticut",
+            "score": "3"
+        },
+        {
+            "name": "Colorado",
+            "score": "3"
+        },
+        {
+            "name": "Oregon",
+            "score": "3"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "3"
+        },
+        {
+            "name": "Virginia",
+            "score": "3"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "3"
+        },
+        {
+            "name": "Iowa",
+            "score": "2"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "2"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "2"
+        },
+        {
+            "name": "Nebraska",
+            "score": "2"
+        },
+        {
+            "name": "Hawaii",
+            "score": "2"
+        },
+        {
+            "name": "South Dakota",
+            "score": "2"
+        },
+        {
+            "name": "Michigan",
+            "score": "2"
+        },
+        {
+            "name": "Kansas",
+            "score": "2"
+        },
+        {
+            "name": "West Virginia",
+            "score": "2"
+        },
+        {
+            "name": "Minnesota",
+            "score": "2"
+        },
+        {
+            "name": "Missouri",
+            "score": "2"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "2"
+        },
+        {
+            "name": "Maine",
+            "score": "2"
+        },
+        {
+            "name": "North Dakota",
+            "score": "2"
+        },
+        {
+            "name": "Idaho",
+            "score": "2"
+        },
+        {
+            "name": "Washington",
+            "score": "2"
+        },
+        {
+            "name": "Wyoming",
+            "score": "2"
+        },
+        {
+            "name": "Montana",
+            "score": "1"
+        },
+        {
+            "name": "Alaska",
+            "score": "1"
+        },
+        {
+            "name": "Vermont",
+            "score": "1"
+        }
+    ],
+    "Spurs": [
+        {
+            "name": "Texas",
+            "score": "100"
+        },
+        {
+            "name": "New Mexico",
+            "score": "21"
+        },
+        {
+            "name": "Oklahoma",
+            "score": "21"
+        },
+        {
+            "name": "Louisiana",
+            "score": "17"
+        },
+        {
+            "name": "Mississippi",
+            "score": "16"
+        },
+        {
+            "name": "Nevada",
+            "score": "16"
+        },
+        {
+            "name": "Hawaii",
+            "score": "15"
+        },
+        {
+            "name": "California",
+            "score": "14"
+        },
+        {
+            "name": "Colorado",
+            "score": "13"
+        },
+        {
+            "name": "Arizona",
+            "score": "13"
+        },
+        {
+            "name": "Georgia",
+            "score": "13"
+        },
+        {
+            "name": "Arkansas",
+            "score": "13"
+        },
+        {
+            "name": "Illinois",
+            "score": "12"
+        },
+        {
+            "name": "District of Columbia",
+            "score": "12"
+        },
+        {
+            "name": "Kansas",
+            "score": "12"
+        },
+        {
+            "name": "New York",
+            "score": "12"
+        },
+        {
+            "name": "Florida",
+            "score": "12"
+        },
+        {
+            "name": "Tennessee",
+            "score": "12"
+        },
+        {
+            "name": "New Jersey",
+            "score": "12"
+        },
+        {
+            "name": "Alabama",
+            "score": "11"
+        },
+        {
+            "name": "Maryland",
+            "score": "11"
+        },
+        {
+            "name": "Utah",
+            "score": "11"
+        },
+        {
+            "name": "North Carolina",
+            "score": "11"
+        },
+        {
+            "name": "Nebraska",
+            "score": "11"
+        },
+        {
+            "name": "Ohio",
+            "score": "11"
+        },
+        {
+            "name": "Indiana",
+            "score": "10"
+        },
+        {
+            "name": "South Dakota",
+            "score": "10"
+        },
+        {
+            "name": "Alaska",
+            "score": "10"
+        },
+        {
+            "name": "Washington",
+            "score": "10"
+        },
+        {
+            "name": "Delaware",
+            "score": "10"
+        },
+        {
+            "name": "South Carolina",
+            "score": "10"
+        },
+        {
+            "name": "Virginia",
+            "score": "10"
+        },
+        {
+            "name": "North Dakota",
+            "score": "10"
+        },
+        {
+            "name": "Oregon",
+            "score": "10"
+        },
+        {
+            "name": "Missouri",
+            "score": "9"
+        },
+        {
+            "name": "Massachusetts",
+            "score": "9"
+        },
+        {
+            "name": "Iowa",
+            "score": "9"
+        },
+        {
+            "name": "Kentucky",
+            "score": "9"
+        },
+        {
+            "name": "Pennsylvania",
+            "score": "9"
+        },
+        {
+            "name": "Connecticut",
+            "score": "9"
+        },
+        {
+            "name": "Idaho",
+            "score": "9"
+        },
+        {
+            "name": "Michigan",
+            "score": "9"
+        },
+        {
+            "name": "Wyoming",
+            "score": "9"
+        },
+        {
+            "name": "Montana",
+            "score": "9"
+        },
+        {
+            "name": "Wisconsin",
+            "score": "8"
+        },
+        {
+            "name": "Rhode Island",
+            "score": "8"
+        },
+        {
+            "name": "Minnesota",
+            "score": "8"
+        },
+        {
+            "name": "West Virginia",
+            "score": "7"
+        },
+        {
+            "name": "New Hampshire",
+            "score": "6"
+        },
+        {
+            "name": "Maine",
+            "score": "6"
+        },
+        {
+            "name": "Vermont",
+            "score": "5"
+        }
+    ]
+}
