@@ -1,0 +1,116 @@
+[
+  {
+    "stage": "Follow NBA on Social Media",
+    "percent": 100,
+    "age_group": {
+      "Gen Z": 45,
+      "Millennials": 40,
+      "Gen X+": 15
+    },
+    "device": "Mobile",
+    "sentiment": 6,
+    "time_spent": 10,
+    "reason": "Scrolls casually on Instagram and TikTok.",
+    "fan": {
+      "name": "Alex",
+      "age": 22,
+      "quote": "I like the memes and dunks on Insta.",
+	  "pfp": "/avatars/male-1.svg"
+    }
+  },
+  {
+    "stage": "Click on Highlights",
+    "percent": 75,
+    "age_group": {
+      "Gen Z": 50,
+      "Millennials": 35,
+      "Gen X+": 15
+    },
+    "device": "Mobile",
+    "sentiment": 7,
+    "time_spent": 20,
+    "reason": "Watches short YouTube/Twitter highlight reels.",
+    "fan": {
+      "name": "Priya",
+      "age": 25,
+      "quote": "I rarely watch full games, but I love top plays.",
+	  "pfp": "/avatars/female-2.svg"
+    }
+  },
+  {
+    "stage": "Watch Full Recaps",
+    "percent": 40,
+    "age_group": {
+      "Gen Z": 30,
+      "Millennials": 50,
+      "Gen X+": 20
+    },
+    "device": "PC",
+    "sentiment": 8,
+    "time_spent": 45,
+    "reason": "Prefers watching 10-minute game summaries.",
+    "fan": {
+      "name": "Daniel",
+      "age": 30,
+      "quote": "Highlights aren't enough \u2014 I want full context.",
+	  "pfp": "/avatars/male-2.svg"
+    }
+  },
+  {
+    "stage": "Watch Live Regular Season",
+    "percent": 25,
+    "age_group": {
+      "Gen Z": 15,
+      "Millennials": 55,
+      "Gen X+": 30
+    },
+    "device": "Smart TV",
+    "sentiment": 9,
+    "time_spent": 120,
+    "reason": "Watches favorite team live twice a week.",
+    "fan": {
+      "name": "Sophie",
+      "age": 33,
+      "quote": "I watch every Celtics game live, win or lose!",
+	  "pfp": "/avatars/female-1.svg"
+    }
+  },
+  {
+    "stage": "Watch Playoffs",
+    "percent": 15,
+    "age_group": {
+      "Gen Z": 10,
+      "Millennials": 50,
+      "Gen X+": 40
+    },
+    "device": "TV",
+    "sentiment": 9,
+    "time_spent": 150,
+    "reason": "Loves playoff intensity and drama.",
+    "fan": {
+      "name": "Marcus",
+      "age": 37,
+      "quote": "Playoffs is where legends are made.",
+	  "pfp": "/avatars/male-3.svg"
+    }
+  },
+  {
+    "stage": "Watch NBA Finals",
+    "percent": 10,
+    "age_group": {
+      "Gen Z": 8,
+      "Millennials": 47,
+      "Gen X+": 45
+    },
+    "device": "TV",
+    "sentiment": 10,
+    "time_spent": 180,
+    "reason": "Makes time specifically for the Finals.",
+    "fan": {
+      "name": "Linda",
+      "age": 42,
+      "quote": "Even my kids know not to talk during Finals.",
+	  "pfp": "/avatars/female-3.svg"
+    }
+  }
+]

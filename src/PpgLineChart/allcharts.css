@@ -1,0 +1,12 @@
+.all-charts-container {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    gap: 0.5rem;
+    justify-content: center;
+    padding: 0.5rem;
+  }
+  
+  .all-charts-container > * {
+    zoom: 0.5;
+  }
+  

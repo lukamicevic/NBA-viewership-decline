@@ -1,0 +1,662 @@
+{
+    "Celtics": [
+        {
+            "name": "Massachusetts",
+            "score": 100
+        },
+        {
+            "name": "New Hampshire",
+            "score": 88
+        },
+        {
+            "name": "Maine",
+            "score": 75
+        },
+        {
+            "name": "Rhode Island",
+            "score": 73
+        },
+        {
+            "name": "Vermont",
+            "score": 43
+        }
+    ],
+    "Nets": [
+        {
+            "name": "New Jersey",
+            "score": 100
+        },
+        {
+            "name": "New York",
+            "score": 99
+        },
+        {
+            "name": "Connecticut",
+            "score": 47
+        },
+        {
+            "name": "Delaware",
+            "score": 35
+        },
+        {
+            "name": "Rhode Island",
+            "score": 32
+        }
+    ],
+    "Knicks": [
+        {
+            "name": "New York",
+            "score": 100
+        },
+        {
+            "name": "New Jersey",
+            "score": 65
+        },
+        {
+            "name": "Connecticut",
+            "score": 43
+        },
+        {
+            "name": "Delaware",
+            "score": 20
+        },
+        {
+            "name": "District of Columbia",
+            "score": 17
+        }
+    ],
+    "P76ers": [
+        {
+            "name": "Pennsylvania",
+            "score": 100
+        },
+        {
+            "name": "Delaware",
+            "score": 98
+        },
+        {
+            "name": "New Jersey",
+            "score": 39
+        },
+        {
+            "name": "District of Columbia",
+            "score": 12
+        },
+        {
+            "name": "Maryland",
+            "score": 10
+        }
+    ],
+    "Raptors": [
+        {
+            "name": "New Jersey",
+            "score": 100
+        },
+        {
+            "name": "Nevada",
+            "score": 96
+        },
+        {
+            "name": "Illinois",
+            "score": 91
+        },
+        {
+            "name": "New York",
+            "score": 91
+        },
+        {
+            "name": "Pennsylvania",
+            "score": 87
+        }
+    ],
+    "Bulls": [
+        {
+            "name": "Illinois",
+            "score": 100
+        },
+        {
+            "name": "Indiana",
+            "score": 23
+        },
+        {
+            "name": "Iowa",
+            "score": 18
+        },
+        {
+            "name": "Wisconsin",
+            "score": 14
+        },
+        {
+            "name": "Nebraska",
+            "score": 10
+        }
+    ],
+    "Cavaliers": [
+        {
+            "name": "Ohio",
+            "score": 100
+        },
+        {
+            "name": "Michigan",
+            "score": 10
+        },
+        {
+            "name": "Mississippi",
+            "score": 9
+        },
+        {
+            "name": "West Virginia",
+            "score": 9
+        },
+        {
+            "name": "Pennsylvania",
+            "score": 9
+        }
+    ],
+    "Pistons": [
+        {
+            "name": "Michigan",
+            "score": 100
+        },
+        {
+            "name": "Ohio",
+            "score": 8
+        },
+        {
+            "name": "Indiana",
+            "score": 6
+        },
+        {
+            "name": "Illinois",
+            "score": 5
+        },
+        {
+            "name": "Nevada",
+            "score": 5
+        }
+    ],
+    "Pacers": [
+        {
+            "name": "Indiana",
+            "score": 100
+        },
+        {
+            "name": "Kentucky",
+            "score": 8
+        },
+        {
+            "name": "Illinois",
+            "score": 8
+        },
+        {
+            "name": "Ohio",
+            "score": 5
+        },
+        {
+            "name": "Florida",
+            "score": 4
+        }
+    ],
+    "Bucks": [
+        {
+            "name": "Wisconsin",
+            "score": 100
+        },
+        {
+            "name": "Illinois",
+            "score": 5
+        },
+        {
+            "name": "Iowa",
+            "score": 4
+        },
+        {
+            "name": "Minnesota",
+            "score": 4
+        },
+        {
+            "name": "Arizona",
+            "score": 3
+        }
+    ],
+    "Hawks": [
+        {
+            "name": "Georgia",
+            "score": 100
+        },
+        {
+            "name": "Alabama",
+            "score": 20
+        },
+        {
+            "name": "Illinois",
+            "score": 13
+        },
+        {
+            "name": "South Carolina",
+            "score": 12
+        },
+        {
+            "name": "Tennessee",
+            "score": 11
+        }
+    ],
+    "Hornets": [
+        {
+            "name": "North Carolina",
+            "score": 100
+        },
+        {
+            "name": "South Carolina",
+            "score": 47
+        },
+        {
+            "name": "Louisiana",
+            "score": 21
+        },
+        {
+            "name": "Georgia",
+            "score": 13
+        },
+        {
+            "name": "Tennessee",
+            "score": 12
+        }
+    ],
+    "Heat": [
+        {
+            "name": "Florida",
+            "score": 100
+        },
+        {
+            "name": "Georgia",
+            "score": 21
+        },
+        {
+            "name": "Mississippi",
+            "score": 18
+        },
+        {
+            "name": "District of Columbia",
+            "score": 16
+        },
+        {
+            "name": "North Carolina",
+            "score": 16
+        }
+    ],
+    "Magic": [
+        {
+            "name": "Florida",
+            "score": 100
+        },
+        {
+            "name": "Georgia",
+            "score": 16
+        },
+        {
+            "name": "North Carolina",
+            "score": 14
+        },
+        {
+            "name": "Louisiana",
+            "score": 13
+        },
+        {
+            "name": "New Jersey",
+            "score": 13
+        }
+    ],
+    "Wizards": [
+        {
+            "name": "District of Columbia",
+            "score": 100
+        },
+        {
+            "name": "Maryland",
+            "score": 90
+        },
+        {
+            "name": "Virginia",
+            "score": 48
+        },
+        {
+            "name": "Delaware",
+            "score": 16
+        },
+        {
+            "name": "West Virginia",
+            "score": 12
+        }
+    ],
+    "Nuggets": [
+        {
+            "name": "Colorado",
+            "score": 100
+        },
+        {
+            "name": "Wyoming",
+            "score": 24
+        },
+        {
+            "name": "New Mexico",
+            "score": 8
+        },
+        {
+            "name": "Nebraska",
+            "score": 8
+        },
+        {
+            "name": "South Dakota",
+            "score": 6
+        }
+    ],
+    "Timberwolves": [
+        {
+            "name": "Minnesota",
+            "score": 100
+        },
+        {
+            "name": "North Dakota",
+            "score": 38
+        },
+        {
+            "name": "South Dakota",
+            "score": 24
+        },
+        {
+            "name": "Iowa",
+            "score": 8
+        },
+        {
+            "name": "Wisconsin",
+            "score": 6
+        }
+    ],
+    "Thunder": [
+        {
+            "name": "Oklahoma",
+            "score": 100
+        },
+        {
+            "name": "Arkansas",
+            "score": 7
+        },
+        {
+            "name": "Kansas",
+            "score": 6
+        },
+        {
+            "name": "Texas",
+            "score": 5
+        },
+        {
+            "name": "Missouri",
+            "score": 4
+        }
+    ],
+    "Blazers": [
+        {
+            "name": "Oregon",
+            "score": 100
+        },
+        {
+            "name": "Washington",
+            "score": 17
+        },
+        {
+            "name": "Idaho",
+            "score": 6
+        },
+        {
+            "name": "Montana",
+            "score": 4
+        },
+        {
+            "name": "Alaska",
+            "score": 4
+        }
+    ],
+    "Jazz": [
+        {
+            "name": "Utah",
+            "score": 100
+        },
+        {
+            "name": "Idaho",
+            "score": 12
+        },
+        {
+            "name": "Wyoming",
+            "score": 8
+        },
+        {
+            "name": "Montana",
+            "score": 3
+        },
+        {
+            "name": "Nevada",
+            "score": 3
+        }
+    ],
+    "Warriors": [
+        {
+            "name": "California",
+            "score": 100
+        },
+        {
+            "name": "Nevada",
+            "score": 45
+        },
+        {
+            "name": "Hawaii",
+            "score": 37
+        },
+        {
+            "name": "Mississippi",
+            "score": 32
+        },
+        {
+            "name": "Arkansas",
+            "score": 28
+        }
+    ],
+    "Clippers": [
+        {
+            "name": "California",
+            "score": 100
+        },
+        {
+            "name": "Hawaii",
+            "score": 49
+        },
+        {
+            "name": "Nevada",
+            "score": 49
+        },
+        {
+            "name": "Arizona",
+            "score": 40
+        },
+        {
+            "name": "Mississippi",
+            "score": 32
+        }
+    ],
+    "Lakers": [
+        {
+            "name": "California",
+            "score": 100
+        },
+        {
+            "name": "Nevada",
+            "score": 58
+        },
+        {
+            "name": "Hawaii",
+            "score": 57
+        },
+        {
+            "name": "Mississippi",
+            "score": 36
+        },
+        {
+            "name": "New Mexico",
+            "score": 35
+        }
+    ],
+    "Suns": [
+        {
+            "name": "Arizona",
+            "score": 100
+        },
+        {
+            "name": "New Mexico",
+            "score": 8
+        },
+        {
+            "name": "Nevada",
+            "score": 7
+        },
+        {
+            "name": "Utah",
+            "score": 6
+        },
+        {
+            "name": "Colorado",
+            "score": 4
+        }
+    ],
+    "Kings": [
+        {
+            "name": "California",
+            "score": 100
+        },
+        {
+            "name": "Nevada",
+            "score": 42
+        },
+        {
+            "name": "Hawaii",
+            "score": 23
+        },
+        {
+            "name": "Iowa",
+            "score": 22
+        },
+        {
+            "name": "Arizona",
+            "score": 21
+        }
+    ],
+    "Mavericks": [
+        {
+            "name": "Texas",
+            "score": 100
+        },
+        {
+            "name": "Oklahoma",
+            "score": 26
+        },
+        {
+            "name": "Arkansas",
+            "score": 22
+        },
+        {
+            "name": "Louisiana",
+            "score": 19
+        },
+        {
+            "name": "Mississippi",
+            "score": 18
+        }
+    ],
+    "Rockets": [
+        {
+            "name": "Texas",
+            "score": 100
+        },
+        {
+            "name": "Louisiana",
+            "score": 24
+        },
+        {
+            "name": "Oklahoma",
+            "score": 22
+        },
+        {
+            "name": "Mississippi",
+            "score": 16
+        },
+        {
+            "name": "Utah",
+            "score": 14
+        }
+    ],
+    "Grizzlies": [
+        {
+            "name": "Tennessee",
+            "score": 100
+        },
+        {
+            "name": "Mississippi",
+            "score": 58
+        },
+        {
+            "name": "Arkansas",
+            "score": 33
+        },
+        {
+            "name": "Montana",
+            "score": 15
+        },
+        {
+            "name": "Alabama",
+            "score": 13
+        }
+    ],
+    "Pelicans": [
+        {
+            "name": "Louisiana",
+            "score": 100
+        },
+        {
+            "name": "Mississippi",
+            "score": 17
+        },
+        {
+            "name": "Alabama",
+            "score": 7
+        },
+        {
+            "name": "South Carolina",
+            "score": 5
+        },
+        {
+            "name": "North Carolina",
+            "score": 5
+        }
+    ],
+    "Spurs": [
+        {
+            "name": "Texas",
+            "score": 100
+        },
+        {
+            "name": "Oklahoma",
+            "score": 21
+        },
+        {
+            "name": "New Mexico",
+            "score": 21
+        },
+        {
+            "name": "Louisiana",
+            "score": 17
+        },
+        {
+            "name": "Mississippi",
+            "score": 16
+        }
+    ]
+}
