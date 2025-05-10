@@ -53,54 +53,14 @@ export default function App() {
   }
   
 
-  const introSteps = makeSentenceSteps(
-	'text-intro',
-	'intro',
-	`${import.meta.env.BASE_URL}images/kobe.png`
-  );
-  
-  const popularitySteps = makeSentenceSteps(
-	'text-popularity',
-	'popularity',
-	`${import.meta.env.BASE_URL}images/msg.png`
-  );
-  
-  const stateMapSteps = makeSentenceSteps(
-	'text-state-map-teams',
-	'state-map-teams',
-	`${import.meta.env.BASE_URL}images/celtics.png`
-  );
-  
-  const feedbackSteps = makeSentenceSteps(
-	'text-feedback',
-	'feedback',
-	`${import.meta.env.BASE_URL}images/kd.png`
-  );
-  
-  const three1Steps = makeSentenceSteps(
-	'text-three-pointer-1',
-	'three-pointer-1',
-	`${import.meta.env.BASE_URL}images/harden.png`
-  );
-  
-  const three2Steps = makeSentenceSteps(
-	'text-three-pointer-2',
-	'three-pointer-2',
-	`${import.meta.env.BASE_URL}images/steph.png`
-  );
-  
-  const ppgSteps = makeSentenceSteps(
-	'text-points-per-game',
-	'points-per-game',
-	`${import.meta.env.BASE_URL}images/lebron.png`
-  );
-  
-  const conclusionSteps = makeSentenceSteps(
-	'text-conclusion',
-	'conclusion',
-	`${import.meta.env.BASE_URL}images/media.png`
-  );
-  
+  const introSteps      = makeSentenceSteps('text-intro', 'intro', '/images/kobe.png');
+  const popularitySteps = makeSentenceSteps('text-popularity', 'popularity', '/images/msg.png');
+  const stateMapSteps   = makeSentenceSteps('text-state-map-teams','state-map-teams','/images/celtics.png');
+  const feedbackSteps   = makeSentenceSteps('text-feedback', 'feedback', '/images/kd.png');
+  const three1Steps     = makeSentenceSteps('text-three-pointer-1','three-pointer-1','/images/harden.png');
+  const three2Steps     = makeSentenceSteps('text-three-pointer-2','three-pointer-2','/images/steph.png');
+  const ppgSteps        = makeSentenceSteps('text-points-per-game','points-per-game','/images/lebron.png');
+  const conclusionSteps = makeSentenceSteps('text-conclusion', 'conclusion', '/images/media.png');
 
   const steps = [
     { id: 'intro', component: <IntroSection /> },
