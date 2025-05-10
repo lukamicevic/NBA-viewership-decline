@@ -105,8 +105,8 @@ const HumanGrid = () => {
 
 			groups.append("image")
 				.attr("href", d => d.is_fan === "Yes"
-					? "/avatars/fan-green.svg".replace("fan-green", `fan-green-${Math.floor(Math.random() * 6) + 1}`)
-					: "/avatars/fan-red.svg".replace("fan-red", `fan-red-${Math.floor(Math.random() * 4) + 1}`)
+					? "avatars/fan-green.svg".replace("fan-green", `fan-green-${Math.floor(Math.random() * 6) + 1}`)
+					: "avatars/fan-red.svg".replace("fan-red", `fan-red-${Math.floor(Math.random() * 4) + 1}`)
 				)
 				.attr("width", 40)
 				.attr("height", 40);
